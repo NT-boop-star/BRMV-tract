@@ -1,0 +1,116 @@
+{
+  "variations": {
+    "nb_tables": 2,
+    "headers": [
+      "",
+      "Symbole",
+      "Action",
+      "Variation",
+      "Volume",
+      "Valeur (FCFA)",
+      "Cours actuel",
+      "Cours de la veille",
+      "Capitalisation",
+      ""
+    ],
+    "sample_rows": [
+      {
+        "nb_cols": 10,
+        "values": [
+          " ",
+          " ",
+          "TOTAL",
+          " ",
+          "379 204",
+          "448 230 132",
+          " ",
+          " ",
+          "13 596 090 513 458",
+          " "
+        ]
+      },
+      {
+        "nb_cols": 10,
+        "values": [
+          "",
+          "STAC",
+          "SETAO",
+          "7.48%",
+          "1 912",
+          "6 309 050",
+          "3 375",
+          "3 140",
+          "45 360 000 000",
+          ""
+        ]
+      },
+      {
+        "nb_cols": 10,
+        "values": [
+          "",
+          "SCRC",
+          "SUCRIVOIRE",
+          "7.46%",
+          "43 236",
+          "82 161 675",
+          "1 945",
+          "1 810",
+          "38 122 000 000",
+          ""
+        ]
+      }
+    ],
+    "nb_rows": 39
+  },
+  "dividendes": {
+    "nb_tables": 2,
+    "headers": [
+      "#",
+      "Société",
+      "Dividende",
+      "Rendement",
+      "Ex-dividende",
+      "Date paiement",
+      ""
+    ],
+    "sample_rows": [
+      {
+        "nb_cols": 7,
+        "values": [
+          "1",
+          "PALM CI",
+          "441.76",
+          "5.42%",
+          "(inconnue)",
+          "(inconnue)",
+          ""
+        ]
+      },
+      {
+        "nb_cols": 7,
+        "values": [
+          "2",
+          "TOTAL CI",
+          "139.77",
+          "5.17%",
+          "(inconnue)",
+          "(inconnue)",
+          ""
+        ]
+      },
+      {
+        "nb_cols": 7,
+        "values": [
+          "3",
+          "SAPH",
+          "430.32",
+          "6.15%",
+          "(inconnue)",
+          "(inconnue)",
+          ""
+        ]
+      }
+    ],
+    "nb_rows": 12
+  }
+}

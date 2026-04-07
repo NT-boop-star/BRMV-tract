@@ -1,0 +1,15 @@
+﻿Navigation vers https://www.richbourse.com/common/variation/index
+Titre: Palmar├¿s des actions (Variation des cours de cl├┤ture)
+Nombre de tableaux: 2
+Lignes dans le 1er tableau: 39
+Colonnes: ['', 'Symbole', 'Action', 'Variation', 'Volume', 'Valeur (FCFA)', 'Cours actuel', 'Cours de la veille', 'Capitalisation', '']
+  Row 0 (10 cols): ['', '', 'TOTAL', '', '379 204', '448 230 132', '', '', '13 596 090 513 458', '']
+  Row 1 (10 cols): ['', 'STAC', 'SETAO', '7.48%', '1 912', '6 309 050', '3 375', '3 140', '45 360 000 000', '']
+  Row 2 (10 cols): ['', 'SCRC', 'SUCRIVOIRE', '7.46%', '43 236', '82 161 675', '1 945', '1 810', '38 122 000 000', '']
+
+--- Dividendes ---
+Nombre de tableaux: 2
+Lignes: 12
+Colonnes: ['#', 'Soci├®t├®', 'Dividende', 'Rendement', 'Ex-dividende', 'Date paiement', '']
+  Row: ['1', 'PALM CI', '441.76', '5.42%', '(inconnue)', '(inconnue)', '']
+  Row: ['2', 'TOTAL CI', '139.77', '5.17%', '(inconnue)', '(inconnue)', '']

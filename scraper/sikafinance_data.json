@@ -1,0 +1,1183 @@
+{
+  "date": "2026-04-06",
+  "indices_sectoriels": [
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM - AGRICULTURE",
+      "valeur": 341.63,
+      "variation": 3.07
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM - AUTRES SECTEURS",
+      "valeur": 669.2,
+      "variation": -2.33
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM - CONSOMMATION DE BASE",
+      "valeur": 277.78,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM - CONSOMMATION DISCRETIONNAIRE",
+      "valeur": 193.77,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM - DISTRIBUTION",
+      "valeur": 494.78,
+      "variation": -0.39
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM - ENERGIE",
+      "valeur": 144.54,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM - FINANCE",
+      "valeur": 148.41,
+      "variation": 0.56
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM - INDUSTRIE",
+      "valeur": 257.22,
+      "variation": 0.85
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM - INDUSTRIELS",
+      "valeur": 208.44,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM - PRESTIGE",
+      "valeur": 158.94,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM - PRINCIPAL",
+      "valeur": 289.37,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM - SERVICES FINANCIERS",
+      "valeur": 178.17,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM - SERVICES PUBLICS",
+      "valeur": 777.9,
+      "variation": -0.22
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM - SERVICES PUBLICS",
+      "valeur": 99.6,
+      "variation": -0.51
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM - TELECOMMUNICATIONS",
+      "valeur": 103.21,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM - TRANSPORT",
+      "valeur": 370.83,
+      "variation": 0.33
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM 30",
+      "valeur": 192.04,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM COMPOSITE",
+      "valeur": 410.43,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "Capitalisation BRVM",
+      "valeur": 15826293.0,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "INDICE SIKAFINANCE",
+      "valeur": 123.29,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SIKA TOTAL RETURN",
+      "valeur": 423.77,
+      "variation": 0.0
+    }
+  ],
+  "cotations_aaz": [
+    {
+      "date_seance": "2026-04-06",
+      "nom": "AFRICA GLOBAL LOGISTICS",
+      "ouverture": 1855,
+      "plus_haut": 1860,
+      "plus_bas": 1855,
+      "volume_titres": 2225,
+      "volume_xof": 4138500,
+      "dernier": 1860,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BANK OF AFRICA BENIN",
+      "ouverture": 7500,
+      "plus_haut": 7600,
+      "plus_bas": 7500,
+      "volume_titres": 2169,
+      "volume_xof": 16484400,
+      "dernier": 7600,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BANK OF AFRICA BURKINA FASO",
+      "ouverture": 5600,
+      "plus_haut": 5600,
+      "plus_bas": 5590,
+      "volume_titres": 1145,
+      "volume_xof": 6400550,
+      "dernier": 5590,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BANK OF AFRICA CI",
+      "ouverture": 8500,
+      "plus_haut": 8500,
+      "plus_bas": 8495,
+      "volume_titres": 5103,
+      "volume_xof": 43349985,
+      "dernier": 8495,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BANK OF AFRICA MALI",
+      "ouverture": 4695,
+      "plus_haut": 4695,
+      "plus_bas": 4685,
+      "volume_titres": 418,
+      "volume_xof": 1958330,
+      "dernier": 4685,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BANK OF AFRICA NIGER",
+      "ouverture": 2695,
+      "plus_haut": 2695,
+      "plus_bas": 2660,
+      "volume_titres": 3357,
+      "volume_xof": 8929620,
+      "dernier": 2660,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BANK OF AFRICA SENEGAL",
+      "ouverture": 6850,
+      "plus_haut": 6850,
+      "plus_bas": 6800,
+      "volume_titres": 1853,
+      "volume_xof": 12600400,
+      "dernier": 6800,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BANQUE INTERNATIONALE POUR LE COMMERCE DU BENIN",
+      "ouverture": 5075,
+      "plus_haut": 5175,
+      "plus_bas": 5075,
+      "volume_titres": 1248,
+      "volume_xof": 6458400,
+      "dernier": 5175,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BERNABE",
+      "ouverture": 1590,
+      "plus_haut": 1590,
+      "plus_bas": 1515,
+      "volume_titres": 782,
+      "volume_xof": 1184730,
+      "dernier": 1515,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BICICI",
+      "ouverture": 24750,
+      "plus_haut": 24750,
+      "plus_bas": 24000,
+      "volume_titres": 2349,
+      "volume_xof": 56376000,
+      "dernier": 24000,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "CFAO CI",
+      "ouverture": 1605,
+      "plus_haut": 1620,
+      "plus_bas": 1605,
+      "volume_titres": 1032,
+      "volume_xof": 1671840,
+      "dernier": 1620,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "CIE CI",
+      "ouverture": 3400,
+      "plus_haut": 3400,
+      "plus_bas": 3400,
+      "volume_titres": 637,
+      "volume_xof": 2165800,
+      "dernier": 3400,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "CORIS BANK INTERNATIONAL BF",
+      "ouverture": 14995,
+      "plus_haut": 15005,
+      "plus_bas": 14995,
+      "volume_titres": 1220,
+      "volume_xof": 18306100,
+      "dernier": 15005,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "CROWN SIEM",
+      "ouverture": 1905,
+      "plus_haut": 1985,
+      "plus_bas": 1905,
+      "volume_titres": 1607,
+      "volume_xof": 3189895,
+      "dernier": 1985,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "ECOBANK CI",
+      "ouverture": 16300,
+      "plus_haut": 16350,
+      "plus_bas": 16300,
+      "volume_titres": 692,
+      "volume_xof": 11314200,
+      "dernier": 16350,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "ERIUM",
+      "ouverture": 2935,
+      "plus_haut": 2940,
+      "plus_bas": 2935,
+      "volume_titres": 747,
+      "volume_xof": 2196180,
+      "dernier": 2940,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "ETI TG",
+      "ouverture": 33,
+      "plus_haut": 34,
+      "plus_bas": 33,
+      "volume_titres": 278356,
+      "volume_xof": 9464104,
+      "dernier": 34,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "FILTISAC CI",
+      "ouverture": 2300,
+      "plus_haut": 2350,
+      "plus_bas": 2300,
+      "volume_titres": 1859,
+      "volume_xof": 4368650,
+      "dernier": 2350,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "LOTERIE NATIONALE DU BENIN",
+      "ouverture": 3850,
+      "plus_haut": 3850,
+      "plus_bas": 3850,
+      "volume_titres": 341,
+      "volume_xof": 1312850,
+      "dernier": 3850,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "MOVIS CI",
+      "ouverture": 2395,
+      "plus_haut": 2395,
+      "plus_bas": 2395,
+      "volume_titres": 0,
+      "volume_xof": 0,
+      "dernier": 2395,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "NEI CEDA CI",
+      "ouverture": 1395,
+      "plus_haut": 1400,
+      "plus_bas": 1395,
+      "volume_titres": 349,
+      "volume_xof": 488600,
+      "dernier": 1400,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "NESTLE CI",
+      "ouverture": 12500,
+      "plus_haut": 12500,
+      "plus_bas": 12300,
+      "volume_titres": 98,
+      "volume_xof": 1205400,
+      "dernier": 12300,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "NSIA BANQUE",
+      "ouverture": 14295,
+      "plus_haut": 14295,
+      "plus_bas": 14180,
+      "volume_titres": 151,
+      "volume_xof": 2141180,
+      "dernier": 14180,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "ONATEL BF",
+      "ouverture": 2930,
+      "plus_haut": 2935,
+      "plus_bas": 2930,
+      "volume_titres": 419,
+      "volume_xof": 1229765,
+      "dernier": 2935,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "ORAGROUP TOGO",
+      "ouverture": 3660,
+      "plus_haut": 3660,
+      "plus_bas": 3660,
+      "volume_titres": 1465,
+      "volume_xof": 5361900,
+      "dernier": 3660,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "ORANGE CI",
+      "ouverture": 15200,
+      "plus_haut": 15200,
+      "plus_bas": 15000,
+      "volume_titres": 1045,
+      "volume_xof": 15675000,
+      "dernier": 15000,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "PALMCI",
+      "ouverture": 8150,
+      "plus_haut": 8150,
+      "plus_bas": 8150,
+      "volume_titres": 352,
+      "volume_xof": 2868800,
+      "dernier": 8150,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SAFCA CI",
+      "ouverture": 7500,
+      "plus_haut": 7500,
+      "plus_bas": 7445,
+      "volume_titres": 1849,
+      "volume_xof": 13765805,
+      "dernier": 7445,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SAPH CI",
+      "ouverture": 7040,
+      "plus_haut": 7040,
+      "plus_bas": 7000,
+      "volume_titres": 1453,
+      "volume_xof": 10171000,
+      "dernier": 7000,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SERVAIR ABIDJAN CI",
+      "ouverture": 3660,
+      "plus_haut": 3660,
+      "plus_bas": 3600,
+      "volume_titres": 473,
+      "volume_xof": 1702800,
+      "dernier": 3600,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SETAO CI",
+      "ouverture": 3200,
+      "plus_haut": 3375,
+      "plus_bas": 3200,
+      "volume_titres": 1912,
+      "volume_xof": 6453000,
+      "dernier": 3375,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SGBCI",
+      "ouverture": 34500,
+      "plus_haut": 34500,
+      "plus_bas": 34200,
+      "volume_titres": 448,
+      "volume_xof": 15321600,
+      "dernier": 34200,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SICABLE CI",
+      "ouverture": 3895,
+      "plus_haut": 3945,
+      "plus_bas": 3895,
+      "volume_titres": 2234,
+      "volume_xof": 8813130,
+      "dernier": 3945,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SICOR",
+      "ouverture": 4000,
+      "plus_haut": 4000,
+      "plus_bas": 4000,
+      "volume_titres": 101,
+      "volume_xof": 404000,
+      "dernier": 4000,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SITAB",
+      "ouverture": 21550,
+      "plus_haut": 21550,
+      "plus_bas": 21500,
+      "volume_titres": 778,
+      "volume_xof": 16727000,
+      "dernier": 21500,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SMB CI",
+      "ouverture": 12300,
+      "plus_haut": 12300,
+      "plus_bas": 12000,
+      "volume_titres": 1846,
+      "volume_xof": 22152000,
+      "dernier": 12000,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SOCIETE IVOIRIENNE DE BANQUE CI",
+      "ouverture": 6995,
+      "plus_haut": 7000,
+      "plus_bas": 6995,
+      "volume_titres": 1477,
+      "volume_xof": 10339000,
+      "dernier": 7000,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SODECI",
+      "ouverture": 7400,
+      "plus_haut": 7400,
+      "plus_bas": 7400,
+      "volume_titres": 149,
+      "volume_xof": 1102600,
+      "dernier": 7400,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SOGB",
+      "ouverture": 7600,
+      "plus_haut": 7710,
+      "plus_bas": 7600,
+      "volume_titres": 1544,
+      "volume_xof": 11904240,
+      "dernier": 7710,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SOLIBRA CI",
+      "ouverture": 38900,
+      "plus_haut": 38900,
+      "plus_bas": 38900,
+      "volume_titres": 37,
+      "volume_xof": 1439300,
+      "dernier": 38900,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SONATEL",
+      "ouverture": 28900,
+      "plus_haut": 29000,
+      "plus_bas": 28900,
+      "volume_titres": 526,
+      "volume_xof": 15254000,
+      "dernier": 29000,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SUCRIVOIRE",
+      "ouverture": 1845,
+      "plus_haut": 1945,
+      "plus_bas": 1845,
+      "volume_titres": 43236,
+      "volume_xof": 84094020,
+      "dernier": 1945,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "TOTAL CI",
+      "ouverture": 2705,
+      "plus_haut": 2705,
+      "plus_bas": 2705,
+      "volume_titres": 23774,
+      "volume_xof": 64308670,
+      "dernier": 2705,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "TOTAL SENEGAL",
+      "ouverture": 3350,
+      "plus_haut": 3390,
+      "plus_bas": 3350,
+      "volume_titres": 1826,
+      "volume_xof": 6190140,
+      "dernier": 3390,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "TRACTAFRIC MOTORS CI",
+      "ouverture": 4760,
+      "plus_haut": 4760,
+      "plus_bas": 4760,
+      "volume_titres": 474,
+      "volume_xof": 2256240,
+      "dernier": 4760,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "UNILEVER CI",
+      "ouverture": 66000,
+      "plus_haut": 69005,
+      "plus_bas": 66000,
+      "volume_titres": 16,
+      "volume_xof": 1104080,
+      "dernier": 69005,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "UNIWAX CI",
+      "ouverture": 1985,
+      "plus_haut": 1985,
+      "plus_bas": 1925,
+      "volume_titres": 13859,
+      "volume_xof": 26678575,
+      "dernier": 1925,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "VIVO ENERGY CI",
+      "ouverture": 2170,
+      "plus_haut": 2200,
+      "plus_bas": 2170,
+      "volume_titres": 1819,
+      "volume_xof": 4001800,
+      "dernier": 2200,
+      "variation": 0.0
+    }
+  ],
+  "palmares": {
+    "hausses": [],
+    "baisses": [],
+    "neutres": [
+      {
+        "date_seance": "2026-04-06",
+        "nom": "VIVO ENERGY CI",
+        "plus_haut": 2200,
+        "plus_bas": 2170,
+        "dernier": 2200,
+        "volume": 1819,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "CIE CI",
+        "plus_haut": 3400,
+        "plus_bas": 3400,
+        "dernier": 3400,
+        "volume": 637,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "NESTLE CI",
+        "plus_haut": 12500,
+        "plus_bas": 12300,
+        "dernier": 12300,
+        "volume": 98,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "NEI CEDA CI",
+        "plus_haut": 1400,
+        "plus_bas": 1395,
+        "dernier": 1400,
+        "volume": 349,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "LOTERIE NATIONALE DU BENIN",
+        "plus_haut": 3850,
+        "plus_bas": 3850,
+        "dernier": 3850,
+        "volume": 341,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "FILTISAC CI",
+        "plus_haut": 2350,
+        "plus_bas": 2300,
+        "dernier": 2350,
+        "volume": 1859,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "ETI TG",
+        "plus_haut": 34,
+        "plus_bas": 33,
+        "dernier": 34,
+        "volume": 278356,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "ERIUM",
+        "plus_haut": 2940,
+        "plus_bas": 2935,
+        "dernier": 2940,
+        "volume": 747,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "ECOBANK CI",
+        "plus_haut": 16350,
+        "plus_bas": 16300,
+        "dernier": 16350,
+        "volume": 692,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "CROWN SIEM",
+        "plus_haut": 1985,
+        "plus_bas": 1905,
+        "dernier": 1985,
+        "volume": 1607,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "CORIS BANK INTERNATIONAL BF",
+        "plus_haut": 15005,
+        "plus_bas": 14995,
+        "dernier": 15005,
+        "volume": 1220,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "CFAO CI",
+        "plus_haut": 1620,
+        "plus_bas": 1605,
+        "dernier": 1620,
+        "volume": 1032,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "ONATEL BF",
+        "plus_haut": 2935,
+        "plus_bas": 2930,
+        "dernier": 2935,
+        "volume": 419,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "BICICI",
+        "plus_haut": 24750,
+        "plus_bas": 24000,
+        "dernier": 24000,
+        "volume": 2349,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "BERNABE",
+        "plus_haut": 1590,
+        "plus_bas": 1515,
+        "dernier": 1515,
+        "volume": 782,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "BANQUE INTERNATIONALE POUR LE COMMERCE DU BENIN",
+        "plus_haut": 5175,
+        "plus_bas": 5075,
+        "dernier": 5175,
+        "volume": 1248,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "BANK OF AFRICA SENEGAL",
+        "plus_haut": 6850,
+        "plus_bas": 6800,
+        "dernier": 6800,
+        "volume": 1853,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "BANK OF AFRICA NIGER",
+        "plus_haut": 2695,
+        "plus_bas": 2660,
+        "dernier": 2660,
+        "volume": 3357,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "BANK OF AFRICA MALI",
+        "plus_haut": 4695,
+        "plus_bas": 4685,
+        "dernier": 4685,
+        "volume": 418,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "BANK OF AFRICA CI",
+        "plus_haut": 8500,
+        "plus_bas": 8495,
+        "dernier": 8495,
+        "volume": 5103,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "BANK OF AFRICA BURKINA FASO",
+        "plus_haut": 5600,
+        "plus_bas": 5590,
+        "dernier": 5590,
+        "volume": 1145,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "BANK OF AFRICA BENIN",
+        "plus_haut": 7600,
+        "plus_bas": 7500,
+        "dernier": 7600,
+        "volume": 2169,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "NSIA BANQUE",
+        "plus_haut": 14295,
+        "plus_bas": 14180,
+        "dernier": 14180,
+        "volume": 151,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "ORAGROUP TOGO",
+        "plus_haut": 3660,
+        "plus_bas": 3660,
+        "dernier": 3660,
+        "volume": 1465,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "UNIWAX CI",
+        "plus_haut": 1985,
+        "plus_bas": 1925,
+        "dernier": 1925,
+        "volume": 13859,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "SOCIETE IVOIRIENNE DE BANQUE CI",
+        "plus_haut": 7000,
+        "plus_bas": 6995,
+        "dernier": 7000,
+        "volume": 1477,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "UNILEVER CI",
+        "plus_haut": 69005,
+        "plus_bas": 66000,
+        "dernier": 69005,
+        "volume": 16,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "TRACTAFRIC MOTORS CI",
+        "plus_haut": 4760,
+        "plus_bas": 4760,
+        "dernier": 4760,
+        "volume": 474,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "TOTAL SENEGAL",
+        "plus_haut": 3390,
+        "plus_bas": 3350,
+        "dernier": 3390,
+        "volume": 1826,
+        "variation": 0.0
+      },
+      {
+        "date_seance": "2026-04-06",
+        "nom": "TOTAL CI",
+        "plus_haut": 2705,
+        "plus_bas": 2705,
+        "dernier": 2705,
+        "volume": 23774,
+        "variation": 0.0
+      }
+    ]
+  },
+  "dividendes": [
+    {
+      "date_detachement": "21/04/2026",
+      "nom": "BANK OF AFRICA BURKINA FASO",
+      "montant_fcfa": 397.0,
+      "rendement_pct": 7.1
+    },
+    {
+      "date_detachement": "22/05/2026",
+      "nom": "SONATEL",
+      "montant_fcfa": 1740.0,
+      "rendement_pct": 6.0
+    },
+    {
+      "date_detachement": "28/05/2026",
+      "nom": "BANK OF AFRICA SENEGAL",
+      "montant_fcfa": 450.0,
+      "rendement_pct": 6.62
+    },
+    {
+      "date_detachement": "01/06/2026",
+      "nom": "BANK OF AFRICA MALI",
+      "montant_fcfa": 305.04,
+      "rendement_pct": 6.51
+    },
+    {
+      "date_detachement": "A préciser",
+      "nom": "CORIS BANK INTERNATIONAL BF",
+      "montant_fcfa": 900.0,
+      "rendement_pct": 6.0
+    },
+    {
+      "date_detachement": "A préciser",
+      "nom": "TOTAL CI",
+      "montant_fcfa": 139.77,
+      "rendement_pct": 5.17
+    },
+    {
+      "date_detachement": "A préciser",
+      "nom": "BANK OF AFRICA CI",
+      "montant_fcfa": 594.5,
+      "rendement_pct": 7.0
+    },
+    {
+      "date_detachement": "A préciser",
+      "nom": "PALMCI",
+      "montant_fcfa": 441.76,
+      "rendement_pct": 5.42
+    },
+    {
+      "date_detachement": "A préciser",
+      "nom": "SAPH CI",
+      "montant_fcfa": 430.32,
+      "rendement_pct": 6.15
+    },
+    {
+      "date_detachement": "A préciser",
+      "nom": "ORANGE CI",
+      "montant_fcfa": 704.0,
+      "rendement_pct": 4.69
+    },
+    {
+      "date_detachement": "A préciser",
+      "nom": "SICABLE CI",
+      "montant_fcfa": 152.02,
+      "rendement_pct": 3.85
+    }
+  ],
+  "secteurs": [
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BANK OF AFRICA BENIN",
+      "ouverture": 7500.0,
+      "plus_haut": 7600.0,
+      "plus_bas": 7500.0,
+      "volume": 2169,
+      "dernier": 7600.0,
+      "variation_jour": 0.0,
+      "variation_ytd": 29.91
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BANK OF AFRICA BURKINA FASO",
+      "ouverture": 5600.0,
+      "plus_haut": 5600.0,
+      "plus_bas": 5590.0,
+      "volume": 1145,
+      "dernier": 5590.0,
+      "variation_jour": 0.0,
+      "variation_ytd": 49.07
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BANK OF AFRICA CI",
+      "ouverture": 8500.0,
+      "plus_haut": 8500.0,
+      "plus_bas": 8495.0,
+      "volume": 5103,
+      "dernier": 8495.0,
+      "variation_jour": 0.0,
+      "variation_ytd": 18.31
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BANK OF AFRICA MALI",
+      "ouverture": 4695.0,
+      "plus_haut": 4695.0,
+      "plus_bas": 4685.0,
+      "volume": 418,
+      "dernier": 4685.0,
+      "variation_jour": 0.0,
+      "variation_ytd": 17.13
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BANK OF AFRICA NIGER",
+      "ouverture": 2695.0,
+      "plus_haut": 2695.0,
+      "plus_bas": 2660.0,
+      "volume": 3357,
+      "dernier": 2660.0,
+      "variation_jour": 0.0,
+      "variation_ytd": 1.92
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BANK OF AFRICA SENEGAL",
+      "ouverture": 6850.0,
+      "plus_haut": 6850.0,
+      "plus_bas": 6800.0,
+      "volume": 1853,
+      "dernier": 6800.0,
+      "variation_jour": 0.0,
+      "variation_ytd": 29.77
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BANQUE INTERNATIONALE POUR LE COMMERCE DU BENIN",
+      "ouverture": 5075.0,
+      "plus_haut": 5175.0,
+      "plus_bas": 5075.0,
+      "volume": 1248,
+      "dernier": 5175.0,
+      "variation_jour": 0.0,
+      "variation_ytd": 4.02
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BICICI",
+      "ouverture": 24750.0,
+      "plus_haut": 24750.0,
+      "plus_bas": 24000.0,
+      "volume": 2349,
+      "dernier": 24000.0,
+      "variation_jour": 0.0,
+      "variation_ytd": 23.43
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "CORIS BANK INTERNATIONAL BF",
+      "ouverture": 14995.0,
+      "plus_haut": 15005.0,
+      "plus_bas": 14995.0,
+      "volume": 1220,
+      "dernier": 15005.0,
+      "variation_jour": 0.0,
+      "variation_ytd": 39.19
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "ECOBANK CI",
+      "ouverture": 16300.0,
+      "plus_haut": 16350.0,
+      "plus_bas": 16300.0,
+      "volume": 692,
+      "dernier": 16350.0,
+      "variation_jour": 0.0,
+      "variation_ytd": 2.19
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "ETI TG",
+      "ouverture": 33.0,
+      "plus_haut": 34.0,
+      "plus_bas": 33.0,
+      "volume": 278356,
+      "dernier": 34.0,
+      "variation_jour": 0.0,
+      "variation_ytd": 47.83
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "NSIA BANQUE",
+      "ouverture": 14295.0,
+      "plus_haut": 14295.0,
+      "plus_bas": 14180.0,
+      "volume": 151,
+      "dernier": 14180.0,
+      "variation_jour": 0.0,
+      "variation_ytd": 23.9
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "ORAGROUP TOGO",
+      "ouverture": 3660.0,
+      "plus_haut": 3660.0,
+      "plus_bas": 3660.0,
+      "volume": 1465,
+      "dernier": 3660.0,
+      "variation_jour": 0.0,
+      "variation_ytd": 52.5
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SAFCA CI",
+      "ouverture": 7500.0,
+      "plus_haut": 7500.0,
+      "plus_bas": 7445.0,
+      "volume": 1849,
+      "dernier": 7445.0,
+      "variation_jour": 0.0,
+      "variation_ytd": 125.26
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SGBCI",
+      "ouverture": 34500.0,
+      "plus_haut": 34500.0,
+      "plus_bas": 34200.0,
+      "volume": 448,
+      "dernier": 34200.0,
+      "variation_jour": 0.0,
+      "variation_ytd": 14.4
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "SOCIETE IVOIRIENNE DE BANQUE CI",
+      "ouverture": 6995.0,
+      "plus_haut": 7000.0,
+      "plus_bas": 6995.0,
+      "volume": 1477,
+      "dernier": 7000.0,
+      "variation_jour": 0.0,
+      "variation_ytd": 21.74
+    }
+  ]
+}

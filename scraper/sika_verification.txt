@@ -1,0 +1,46 @@
+============================================================
+  VERIFICATION SIKAFINANCE
+============================================================
+
+  Cotations A-Z : 48 actions
+    AFRICA GLOBAL LOGISTICS        |     1860 | +0.27% | vol:2225
+    BANK OF AFRICA BENIN           |     7600 | +1.33% | vol:2169
+    BANK OF AFRICA BURKINA FASO    |     5590 | -0.18% | vol:1145
+    BANK OF AFRICA CI              |     8495 | -0.06% | vol:5103
+    BANK OF AFRICA MALI            |     4685 | +1.85% | vol:418
+
+  Indices sectoriels : 21
+    BRVM - AGRICULTURE                  |     341.63 | +3.07%
+    BRVM - AUTRES SECTEURS              |     669.20 | -2.33%
+    BRVM - CONSOMMATION DE BASE         |     277.78 | +1.51%
+    BRVM - CONSOMMATION DISCRETIONNAIRE |     193.77 | +0.08%
+    BRVM - DISTRIBUTION                 |     494.78 | -0.39%
+    BRVM - ENERGIE                      |     144.54 | -0.06%
+    BRVM - FINANCE                      |     148.41 | +0.56%
+    BRVM - INDUSTRIE                    |     257.22 | +0.85%
+    BRVM - INDUSTRIELS                  |     208.44 | +2.47%
+    BRVM - PRESTIGE                     |     158.94 | -0.39%
+
+  Palmares hausses : 30
+    SETAO CI                       |     3375 | +0.00% | vol:3375
+    SUCRIVOIRE                     |     1945 | +0.00% | vol:1945
+    UNILEVER CI                    |    69005 | +0.00% | vol:69005
+    CROWN SIEM                     |     1985 | +0.00% | vol:1985
+    ETI TG                         |       34 | +0.00% | vol:34
+
+  Dividendes : 11
+    BANK OF AFRICA BURKINA FASO |   397.00 FCFA | 7.10% | 21/04/2026
+    SONATEL                   |  1740.00 FCFA | 6.00% | 22/05/2026
+    BANK OF AFRICA SENEGAL    |   450.00 FCFA | 6.62% | 28/05/2026
+    BANK OF AFRICA MALI       |   305.04 FCFA | 6.51% | 01/06/2026
+    CORIS BANK INTERNATIONAL BF |   900.00 FCFA | 6.00% | A préciser
+
+  Secteurs : 16
+    BANK OF AFRICA BENIN           | Jour:+1.33% | YTD:+29.91%
+    BANK OF AFRICA BURKINA FASO    | Jour:-0.18% | YTD:+49.07%
+    BANK OF AFRICA CI              | Jour:-0.06% | YTD:+18.31%
+    BANK OF AFRICA MALI            | Jour:+1.85% | YTD:+17.13%
+    BANK OF AFRICA NIGER           | Jour:+0.00% | YTD:+1.92%
+
+============================================================
+  [OK] Verification terminee

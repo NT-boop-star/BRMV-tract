@@ -1,0 +1,503 @@
+{
+  "date": "2026-04-06",
+  "cotations": [
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "ABJC",
+      "nom": "SERVAIR ABIDJAN COTE D'IVOIRE",
+      "volume": 473,
+      "cours_veille": 3660,
+      "cours_ouverture": 3660,
+      "cours_cloture": 3600,
+      "variation": -1.64
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BICB",
+      "nom": "BANQUE INTERNATIONALE POUR L’INDUSTRIE ET LE COMMERCE DU BENIN",
+      "volume": 1248,
+      "cours_veille": 5200,
+      "cours_ouverture": 5075,
+      "cours_cloture": 5175,
+      "variation": -0.48
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BICC",
+      "nom": "BICI COTE D'IVOIRE",
+      "volume": 2349,
+      "cours_veille": 24025,
+      "cours_ouverture": 24750,
+      "cours_cloture": 24000,
+      "variation": -2.44
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BNBC",
+      "nom": "BERNABE COTE D'IVOIRE",
+      "volume": 782,
+      "cours_veille": 1515,
+      "cours_ouverture": 1590,
+      "cours_cloture": 1515,
+      "variation": -4.72
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BOAB",
+      "nom": "BANK OF AFRICA BENIN",
+      "volume": 2169,
+      "cours_veille": 7500,
+      "cours_ouverture": 7500,
+      "cours_cloture": 7600,
+      "variation": 1.33
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BOABF",
+      "nom": "BANK OF AFRICA BURKINA FASO",
+      "volume": 1145,
+      "cours_veille": 5600,
+      "cours_ouverture": 5600,
+      "cours_cloture": 5590,
+      "variation": -0.18
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BOAC",
+      "nom": "BANK OF AFRICA COTE D'IVOIRE",
+      "volume": 5103,
+      "cours_veille": 8500,
+      "cours_ouverture": 8500,
+      "cours_cloture": 8495,
+      "variation": -0.06
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BOAM",
+      "nom": "BANK OF AFRICA MALI",
+      "volume": 418,
+      "cours_veille": 4695,
+      "cours_ouverture": 4695,
+      "cours_cloture": 4685,
+      "variation": 1.85
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BOAN",
+      "nom": "BANK OF AFRICA NIGER",
+      "volume": 3357,
+      "cours_veille": 2660,
+      "cours_ouverture": 2695,
+      "cours_cloture": 2660,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BOAS",
+      "nom": "BANK OF AFRICA SENEGAL",
+      "volume": 1853,
+      "cours_veille": 6850,
+      "cours_ouverture": 6850,
+      "cours_cloture": 6800,
+      "variation": -0.73
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "CABC",
+      "nom": "SICABLE COTE D'IVOIRE",
+      "volume": 2234,
+      "cours_veille": 3885,
+      "cours_ouverture": 3895,
+      "cours_cloture": 3945,
+      "variation": 1.54
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "CBIBF",
+      "nom": "CORIS BANK INTERNATIONAL BURKINA FASO",
+      "volume": 1220,
+      "cours_veille": 15150,
+      "cours_ouverture": 14995,
+      "cours_cloture": 15005,
+      "variation": 0.81
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "CFAC",
+      "nom": "CFAO MOTORS COTE D'IVOIRE",
+      "volume": 1032,
+      "cours_veille": 1605,
+      "cours_ouverture": 1605,
+      "cours_cloture": 1620,
+      "variation": 0.93
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "CIEC",
+      "nom": "CIE COTE D'IVOIRE",
+      "volume": 637,
+      "cours_veille": 3400,
+      "cours_ouverture": 3400,
+      "cours_cloture": 3400,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "ECOC",
+      "nom": "ECOBANK COTE D'IVOIRE",
+      "volume": 692,
+      "cours_veille": 16350,
+      "cours_ouverture": 16300,
+      "cours_cloture": 16350,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "ETIT",
+      "nom": "Ecobank Transnational Incorporated TOGO",
+      "volume": 278356,
+      "cours_veille": 34,
+      "cours_ouverture": 33,
+      "cours_cloture": 34,
+      "variation": 3.03
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "FTSC",
+      "nom": "FILTISAC COTE D'IVOIRE",
+      "volume": 1859,
+      "cours_veille": 2350,
+      "cours_ouverture": 2300,
+      "cours_cloture": 2350,
+      "variation": 2.17
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "LNBB",
+      "nom": "LOTERIE NATIONALE DU BENIN",
+      "volume": 341,
+      "cours_veille": 3850,
+      "cours_ouverture": 3850,
+      "cours_cloture": 3850,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "NEIC",
+      "nom": "NEI-CEDA COTE D'IVOIRE",
+      "volume": 349,
+      "cours_veille": 1395,
+      "cours_ouverture": 1395,
+      "cours_cloture": 1400,
+      "variation": 0.36
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "NSBC",
+      "nom": "NSIA BANQUE COTE D'IVOIRE",
+      "volume": 151,
+      "cours_veille": 14155,
+      "cours_ouverture": 14295,
+      "cours_cloture": 14180,
+      "variation": 0.18
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "NTLC",
+      "nom": "NESTLE COTE D'IVOIRE",
+      "volume": 98,
+      "cours_veille": 12450,
+      "cours_ouverture": 12500,
+      "cours_cloture": 12300,
+      "variation": -1.2
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "ONTBF",
+      "nom": "ONATEL BURKINA FASO",
+      "volume": 419,
+      "cours_veille": 2900,
+      "cours_ouverture": 2930,
+      "cours_cloture": 2935,
+      "variation": 1.21
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "ORAC",
+      "nom": "ORANGE COTE D'IVOIRE",
+      "volume": 1045,
+      "cours_veille": 15000,
+      "cours_ouverture": 15200,
+      "cours_cloture": 15000,
+      "variation": -1.32
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "ORGT",
+      "nom": "ORAGROUP TOGO",
+      "volume": 1465,
+      "cours_veille": 3660,
+      "cours_ouverture": 3660,
+      "cours_cloture": 3660,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "PALC",
+      "nom": "PALM COTE D'IVOIRE",
+      "volume": 352,
+      "cours_veille": 8150,
+      "cours_ouverture": 8150,
+      "cours_cloture": 8150,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "PRSC",
+      "nom": "TRACTAFRIC MOTORS COTE D'IVOIRE",
+      "volume": 474,
+      "cours_veille": 4765,
+      "cours_ouverture": 4760,
+      "cours_cloture": 4760,
+      "variation": -0.1
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SAFC",
+      "nom": "SAFCA COTE D'IVOIRE",
+      "volume": 1849,
+      "cours_veille": 7300,
+      "cours_ouverture": 7500,
+      "cours_cloture": 7445,
+      "variation": -0.73
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SCRC",
+      "nom": "SUCRIVOIRE COTE D'IVOIRE",
+      "volume": 43236,
+      "cours_veille": 1915,
+      "cours_ouverture": 1845,
+      "cours_cloture": 1945,
+      "variation": 7.46
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SDCC",
+      "nom": "SODE COTE D'IVOIRE",
+      "volume": 149,
+      "cours_veille": 7400,
+      "cours_ouverture": 7400,
+      "cours_cloture": 7400,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SDSC",
+      "nom": "AFRICA GLOBAL LOGISTICS COTE D'IVOIRE",
+      "volume": 2225,
+      "cours_veille": 1855,
+      "cours_ouverture": 1855,
+      "cours_cloture": 1860,
+      "variation": 0.27
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SEMC",
+      "nom": "EVIOSYS PACKAGING SIEM COTE D'IVOIRE",
+      "volume": 1607,
+      "cours_veille": 1980,
+      "cours_ouverture": 1905,
+      "cours_cloture": 1985,
+      "variation": 4.47
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SGBC",
+      "nom": "SOCIETE GENERALE COTE D'IVOIRE",
+      "volume": 448,
+      "cours_veille": 34500,
+      "cours_ouverture": 34500,
+      "cours_cloture": 34200,
+      "variation": -0.87
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SHEC",
+      "nom": "VIVO ENERGY COTE D'IVOIRE",
+      "volume": 1819,
+      "cours_veille": 2170,
+      "cours_ouverture": 2170,
+      "cours_cloture": 2200,
+      "variation": 1.38
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SIBC",
+      "nom": "SOCIETE IVOIRIENNE DE BANQUE COTE D'IVOIRE",
+      "volume": 1477,
+      "cours_veille": 6995,
+      "cours_ouverture": 6995,
+      "cours_cloture": 7000,
+      "variation": 0.07
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SICC",
+      "nom": "SICOR COTE D'IVOIRE",
+      "volume": 101,
+      "cours_veille": 4000,
+      "cours_ouverture": 4000,
+      "cours_cloture": 4000,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SIVC",
+      "nom": "ERIUM COTE D’IVOIRE",
+      "volume": 747,
+      "cours_veille": 2930,
+      "cours_ouverture": 2935,
+      "cours_cloture": 2940,
+      "variation": 0.34
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SLBC",
+      "nom": "SOLIBRA COTE D'IVOIRE",
+      "volume": 37,
+      "cours_veille": 38850,
+      "cours_ouverture": 38900,
+      "cours_cloture": 38900,
+      "variation": 0.13
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SMBC",
+      "nom": "SMB COTE D'IVOIRE",
+      "volume": 1846,
+      "cours_veille": 12000,
+      "cours_ouverture": 12300,
+      "cours_cloture": 12000,
+      "variation": -3.61
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SNTS",
+      "nom": "SONATEL SENEGAL",
+      "volume": 526,
+      "cours_veille": 28900,
+      "cours_ouverture": 28900,
+      "cours_cloture": 29000,
+      "variation": 0.35
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SOGC",
+      "nom": "SOGB COTE D'IVOIRE",
+      "volume": 1544,
+      "cours_veille": 7690,
+      "cours_ouverture": 7600,
+      "cours_cloture": 7710,
+      "variation": 0.26
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SPHC",
+      "nom": "SAPH COTE D'IVOIRE",
+      "volume": 1453,
+      "cours_veille": 7040,
+      "cours_ouverture": 7040,
+      "cours_cloture": 7000,
+      "variation": -0.57
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "STAC",
+      "nom": "SETAO COTE D'IVOIRE",
+      "volume": 1912,
+      "cours_veille": 3345,
+      "cours_ouverture": 3200,
+      "cours_cloture": 3375,
+      "variation": 7.48
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "STBC",
+      "nom": "SITAB COTE D'IVOIRE",
+      "volume": 778,
+      "cours_veille": 21500,
+      "cours_ouverture": 21550,
+      "cours_cloture": 21500,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "TTLC",
+      "nom": "TOTALENERGIES MARKETING COTE D'IVOIRE",
+      "volume": 23774,
+      "cours_veille": 2705,
+      "cours_ouverture": 2705,
+      "cours_cloture": 2705,
+      "variation": 0.0
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "TTLS",
+      "nom": "TOTALENERGIES MARKETING SENEGAL",
+      "volume": 1826,
+      "cours_veille": 3350,
+      "cours_ouverture": 3350,
+      "cours_cloture": 3390,
+      "variation": 1.19
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "UNLC",
+      "nom": "UNILEVER COTE D'IVOIRE",
+      "volume": 16,
+      "cours_veille": 68900,
+      "cours_ouverture": 66000,
+      "cours_cloture": 69005,
+      "variation": 6.16
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "UNXC",
+      "nom": "UNIWAX COTE D'IVOIRE",
+      "volume": 13859,
+      "cours_veille": 1935,
+      "cours_ouverture": 1985,
+      "cours_cloture": 1925,
+      "variation": -2.78
+    }
+  ],
+  "indices": [
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM Composite",
+      "code": "BRVM-C",
+      "valeur": 410.43,
+      "variation": 0.2
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM 30",
+      "code": "BRVM-30",
+      "valeur": 30192.04,
+      "variation": 0.07
+    },
+    {
+      "date_seance": "2026-04-06",
+      "nom": "BRVM Prestige",
+      "code": "BRVM-PRES",
+      "valeur": 158.94,
+      "variation": 0.39
+    }
+  ],
+  "capitalisations": {
+    "date_seance": "2026-04-06",
+    "capitalisation_actions": 15824291890318.0,
+    "valeur_transactions": 641076642.0
+  }
+}

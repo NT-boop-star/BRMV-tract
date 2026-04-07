@@ -1,0 +1,24 @@
+﻿============================================================
+  BRVM SCRAPER ÔÇö Collecte des donn├®es officielles
+============================================================
+[BRVM] Scraping cotations : https://www.brvm.org/fr/cours-actions/0
+[BRVM] 0 cotations extraites avec succ├¿s
+[BRVM] Scraping indices : https://www.brvm.org/fr/indices
+[BRVM] 5 indices extraits avec succ├¿s
+[BRVM] Scraping annonces ├®metteurs : https://www.brvm.org/fr/emetteurs/type-annonces/convocations-assemblees-generales
+[BRVM] 26 annonces extraites
+
+ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+  R├ëSUM├ë DE LA COLLECTE BRVM
+ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+  ­ƒôè Cotations : 0 actions
+  ­ƒôê Indices   : 5 indices
+  ­ƒô░ Annonces  : 26 annonces
+ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇ
+
+  ­ƒôê Indices du jour :
+     SCRC                           |    1890.00 | +4.42%
+     FTSC                           |    2400.00 | +4.35%
+     SEMC                           |    1980.00 | +4.21%
+     BOAN                           |    2750.00 | +3.38%
+     ETIT                           |      34.00 | +3.03%

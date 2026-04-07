@@ -1,0 +1,41 @@
+============================================================
+  VERIFICATION RICHBOURSE
+============================================================
+
+  Variations : 37 actions
+  Top 5 :
+    STAC     | SETAO           |     3375 FCFA | +7.48%
+    SCRC     | SUCRIVOIRE      |     1945 FCFA | +7.46%
+    UNLC     | UNILEVER        |    69005 FCFA | +6.16%
+    SEMC     | CROWN SIEM      |     1985 FCFA | +4.47%
+    ETIT     | ECOBANK GROUP   |       34 FCFA | +3.03%
+
+  Dividendes : 11 societes
+    PALM CI              |   441.76 FCFA | Rend:5.42% | Ex:(inconnue) | Pai:(inconnue)
+    TOTAL CI             |   139.77 FCFA | Rend:5.17% | Ex:(inconnue) | Pai:(inconnue)
+    SAPH                 |   430.32 FCFA | Rend:6.15% | Ex:(inconnue) | Pai:(inconnue)
+    CORIS BANK           |   900.00 FCFA | Rend:6.00% | Ex:2026-07-06 | Pai:2026-07-07
+    ORANGE CI            |   704.00 FCFA | Rend:4.69% | Ex:(inconnue) | Pai:(inconnue)
+    BOA MALI             |   305.04 FCFA | Rend:6.51% | Ex:2026-06-02 | Pai:2026-06-03
+    SICABLE              |   152.02 FCFA | Rend:3.85% | Ex:(inconnue) | Pai:(inconnue)
+    BOA SENEGAL          |   450.00 FCFA | Rend:6.62% | Ex:2026-05-29 | Pai:2026-06-01
+    SONATEL              |  1740.00 FCFA | Rend:6.00% | Ex:2026-05-22 | Pai:2026-05-25
+    BOA CI               |   594.50 FCFA | Rend:7.00% | Ex:2026-05-05 | Pai:2026-05-06
+    BOA BURKINA          |   397.00 FCFA | Rend:7.10% | Ex:2026-04-22 | Pai:2026-04-23
+
+  Actualites : 60 articles
+    - ORANGE CI : Avis de convocation - Assemblée Générale Ordinaire
+    - SODE CI : Communiqué - Changement important dans la Direction - D
+    - SODE CI : Communiqué - Changement important dans la Direction - D
+    - Agrément du FCP BRIDGE OBLIGATIONS SOUVERAINES en qualité d'OPCVM
+    - BOA NG : Rapport des Commissaires Aux Comptes sur les Etats Finan
+
+  Notations : 21 notations
+    SCRC   | GCR Ratings               | Octobre 2025    | CT:B perspective Stable LT:BB+ perspective Stable
+    SCRC   | GCR Ratings               | Septembre 2024  | CT:B perspective Stable LT:BB perspective Stable
+    SCRC   | GCR Ratings               | Septembre 2023  | CT:B perspective Stable LT:BB perspective Négative
+    UNLC   | BloomField Investment     | Octobre 2024    | CT:A1- perspective Stable LT:A perspective Stable
+    UNLC   | BloomField Investment     | Octobre 2023    | CT:A1- perspective Stable LT:A perspective Négative
+
+============================================================
+  [OK] Verification terminee

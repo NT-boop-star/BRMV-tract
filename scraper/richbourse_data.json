@@ -1,0 +1,1583 @@
+{
+  "date": "2026-04-06",
+  "variations": [
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "STAC",
+      "nom": "SETAO",
+      "variation": 7.48,
+      "volume": 1912,
+      "valeur_fcfa": 6309050,
+      "cours_actuel": 3375,
+      "cours_veille": 3140,
+      "capitalisation": 45360000000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SCRC",
+      "nom": "SUCRIVOIRE",
+      "variation": 7.46,
+      "volume": 43236,
+      "valeur_fcfa": 82161675,
+      "cours_actuel": 1945,
+      "cours_veille": 1810,
+      "capitalisation": 38122000000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "UNLC",
+      "nom": "UNILEVER",
+      "variation": 6.16,
+      "volume": 16,
+      "valeur_fcfa": 1088820,
+      "cours_actuel": 69005,
+      "cours_veille": 65000,
+      "capitalisation": 633700517000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SEMC",
+      "nom": "CROWN SIEM",
+      "variation": 4.47,
+      "volume": 1607,
+      "valeur_fcfa": 3090430,
+      "cours_actuel": 1985,
+      "cours_veille": 1900,
+      "capitalisation": 50001356000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "ETIT",
+      "nom": "ECOBANK GROUP",
+      "variation": 3.03,
+      "volume": 278356,
+      "valeur_fcfa": 9371222,
+      "cours_actuel": 34,
+      "cours_veille": 33,
+      "capitalisation": 614859628548
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "FTSC",
+      "nom": "FILTISAC",
+      "variation": 2.17,
+      "volume": 1859,
+      "valeur_fcfa": 4347640,
+      "cours_actuel": 2350,
+      "cours_veille": 2300,
+      "capitalisation": 33143789000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BOAM",
+      "nom": "BOA MALI",
+      "variation": 1.85,
+      "volume": 418,
+      "valeur_fcfa": 1960290,
+      "cours_actuel": 4685,
+      "cours_veille": 4600,
+      "capitalisation": 128603250000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "CABC",
+      "nom": "SICABLE",
+      "variation": 1.54,
+      "volume": 2234,
+      "valeur_fcfa": 8770975,
+      "cours_actuel": 3945,
+      "cours_veille": 3885,
+      "capitalisation": 23354400000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SHEC",
+      "nom": "VIVO ENERGY",
+      "variation": 1.38,
+      "volume": 1819,
+      "valeur_fcfa": 3965960,
+      "cours_actuel": 2200,
+      "cours_veille": 2170,
+      "capitalisation": 138600000000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BOAB",
+      "nom": "BOA BENIN",
+      "variation": 1.33,
+      "volume": 2169,
+      "valeur_fcfa": 16435420,
+      "cours_actuel": 7600,
+      "cours_veille": 7500,
+      "capitalisation": 308263964800
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "ONTBF",
+      "nom": "ONATEL",
+      "variation": 1.21,
+      "volume": 419,
+      "valeur_fcfa": 1224825,
+      "cours_actuel": 2935,
+      "cours_veille": 2900,
+      "capitalisation": 199580000000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "TTLS",
+      "nom": "TOTAL SN",
+      "variation": 1.19,
+      "volume": 1826,
+      "valeur_fcfa": 6155385,
+      "cours_actuel": 3390,
+      "cours_veille": 3350,
+      "capitalisation": 110438403000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "CFAC",
+      "nom": "CFAO MOTORS",
+      "variation": 0.93,
+      "volume": 1032,
+      "valeur_fcfa": 1664045,
+      "cours_actuel": 1620,
+      "cours_veille": 1605,
+      "capitalisation": 293822478000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "CBIBF",
+      "nom": "CORIS BANK",
+      "variation": 0.81,
+      "volume": 1220,
+      "valeur_fcfa": 18320920,
+      "cours_actuel": 15005,
+      "cours_veille": 14885,
+      "capitalisation": 480160000000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "NEIC",
+      "nom": "NEI-CEDA",
+      "variation": 0.36,
+      "volume": 349,
+      "valeur_fcfa": 487785,
+      "cours_actuel": 1400,
+      "cours_veille": 1395,
+      "capitalisation": 17872155000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SNTS",
+      "nom": "SONATEL",
+      "variation": 0.35,
+      "volume": 526,
+      "valeur_fcfa": 15204200,
+      "cours_actuel": 29000,
+      "cours_veille": 28900,
+      "capitalisation": 2900000000000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SIVC",
+      "nom": "AIR LIQUIDE - ERIUM",
+      "variation": 0.34,
+      "volume": 747,
+      "valeur_fcfa": 2193400,
+      "cours_actuel": 2940,
+      "cours_veille": 2930,
+      "capitalisation": 25677960000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SDSC",
+      "nom": "BOLLORE - AGL",
+      "variation": 0.27,
+      "volume": 2225,
+      "valeur_fcfa": 4145190,
+      "cours_actuel": 1860,
+      "cours_veille": 1855,
+      "capitalisation": 101249658000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SOGC",
+      "nom": "SOGB",
+      "variation": 0.26,
+      "volume": 1544,
+      "valeur_fcfa": 11873915,
+      "cours_actuel": 7710,
+      "cours_veille": 7690,
+      "capitalisation": 166550186400
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "NSBC",
+      "nom": "NSIA BANQUE",
+      "variation": 0.18,
+      "volume": 151,
+      "valeur_fcfa": 2143920,
+      "cours_actuel": 14180,
+      "cours_veille": 14155,
+      "capitalisation": 350736230960
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SLBC",
+      "nom": "SOLIBRA",
+      "variation": 0.13,
+      "volume": 37,
+      "valeur_fcfa": 1438400,
+      "cours_actuel": 38900,
+      "cours_veille": 38850,
+      "capitalisation": 640326676000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SIBC",
+      "nom": "SIB",
+      "variation": 0.07,
+      "volume": 1477,
+      "valeur_fcfa": 10336430,
+      "cours_actuel": 7000,
+      "cours_veille": 6995,
+      "capitalisation": 700000000000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BOAC",
+      "nom": "BOA CI",
+      "variation": -0.06,
+      "volume": 5103,
+      "valeur_fcfa": 43209045,
+      "cours_actuel": 8495,
+      "cours_veille": 8500,
+      "capitalisation": 339800000000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "PRSC",
+      "nom": "TRACTAFRIC MOTORS",
+      "variation": -0.1,
+      "volume": 474,
+      "valeur_fcfa": 2255745,
+      "cours_actuel": 4760,
+      "cours_veille": 4765,
+      "capitalisation": 48742400000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BOABF",
+      "nom": "BOA BURKINA",
+      "variation": -0.18,
+      "volume": 1145,
+      "valeur_fcfa": 6384150,
+      "cours_actuel": 5590,
+      "cours_veille": 5600,
+      "capitalisation": 245960000000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BICB",
+      "nom": "BIIC",
+      "variation": -0.48,
+      "volume": 1248,
+      "valeur_fcfa": 6360705,
+      "cours_actuel": 5175,
+      "cours_veille": 5200,
+      "capitalisation": 298906965000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SPHC",
+      "nom": "SAPH",
+      "variation": -0.57,
+      "volume": 1453,
+      "valeur_fcfa": 10206340,
+      "cours_actuel": 7000,
+      "cours_veille": 7040,
+      "capitalisation": 178906035000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BOAS",
+      "nom": "BOA SENEGAL",
+      "variation": -0.73,
+      "volume": 1853,
+      "valeur_fcfa": 12676185,
+      "cours_actuel": 6800,
+      "cours_veille": 6850,
+      "capitalisation": 244800000000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SAFC",
+      "nom": "SAFCA",
+      "variation": -0.73,
+      "volume": 1849,
+      "valeur_fcfa": 13837815,
+      "cours_actuel": 7445,
+      "cours_veille": 7500,
+      "capitalisation": 60451538750
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SGBC",
+      "nom": "SGCI",
+      "variation": -0.87,
+      "volume": 448,
+      "valeur_fcfa": 15416200,
+      "cours_actuel": 34200,
+      "cours_veille": 34500,
+      "capitalisation": 1063999962000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "NTLC",
+      "nom": "NESTLE",
+      "variation": -1.2,
+      "volume": 98,
+      "valeur_fcfa": 1220325,
+      "cours_actuel": 12300,
+      "cours_veille": 12450,
+      "capitalisation": 271465920000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "ORAC",
+      "nom": "ORANGE CI",
+      "variation": -1.32,
+      "volume": 1045,
+      "valeur_fcfa": 15605190,
+      "cours_actuel": 15000,
+      "cours_veille": 15200,
+      "capitalisation": 2259830250000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "ABJC",
+      "nom": "SERVAIR",
+      "variation": -1.64,
+      "volume": 473,
+      "valeur_fcfa": 1720100,
+      "cours_actuel": 3600,
+      "cours_veille": 3660,
+      "capitalisation": 39283200000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BICC",
+      "nom": "BICI",
+      "variation": -2.44,
+      "volume": 2349,
+      "valeur_fcfa": 56517155,
+      "cours_actuel": 24000,
+      "cours_veille": 24600,
+      "capitalisation": 400000080000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "UNXC",
+      "nom": "UNIWAX",
+      "variation": -2.78,
+      "volume": 13859,
+      "valeur_fcfa": 26879775,
+      "cours_actuel": 1925,
+      "cours_veille": 1980,
+      "capitalisation": 39943750000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "SMBC",
+      "nom": "SMB",
+      "variation": -3.61,
+      "volume": 1846,
+      "valeur_fcfa": 22054775,
+      "cours_actuel": 12000,
+      "cours_veille": 12450,
+      "capitalisation": 93542400000
+    },
+    {
+      "date_seance": "2026-04-06",
+      "ticker": "BNBC",
+      "nom": "BERNABE",
+      "variation": -4.72,
+      "volume": 782,
+      "valeur_fcfa": 1196730,
+      "cours_actuel": 1515,
+      "cours_veille": 1590,
+      "capitalisation": 10035360000
+    }
+  ],
+  "dividendes": [
+    {
+      "societe": "PALM CI",
+      "dividende_fcfa": 441.76,
+      "rendement_pct": 5.42,
+      "date_ex_dividende": null,
+      "date_paiement": null
+    },
+    {
+      "societe": "TOTAL CI",
+      "dividende_fcfa": 139.77,
+      "rendement_pct": 5.17,
+      "date_ex_dividende": null,
+      "date_paiement": null
+    },
+    {
+      "societe": "SAPH",
+      "dividende_fcfa": 430.32,
+      "rendement_pct": 6.15,
+      "date_ex_dividende": null,
+      "date_paiement": null
+    },
+    {
+      "societe": "CORIS BANK",
+      "dividende_fcfa": 900.0,
+      "rendement_pct": 6.0,
+      "date_ex_dividende": "2026-07-06",
+      "date_paiement": "2026-07-07"
+    },
+    {
+      "societe": "ORANGE CI",
+      "dividende_fcfa": 704.0,
+      "rendement_pct": 4.69,
+      "date_ex_dividende": null,
+      "date_paiement": null
+    },
+    {
+      "societe": "BOA MALI",
+      "dividende_fcfa": 305.04,
+      "rendement_pct": 6.51,
+      "date_ex_dividende": "2026-06-02",
+      "date_paiement": "2026-06-03"
+    },
+    {
+      "societe": "SICABLE",
+      "dividende_fcfa": 152.02,
+      "rendement_pct": 3.85,
+      "date_ex_dividende": null,
+      "date_paiement": null
+    },
+    {
+      "societe": "BOA SENEGAL",
+      "dividende_fcfa": 450.0,
+      "rendement_pct": 6.62,
+      "date_ex_dividende": "2026-05-29",
+      "date_paiement": "2026-06-01"
+    },
+    {
+      "societe": "SONATEL",
+      "dividende_fcfa": 1740.0,
+      "rendement_pct": 6.0,
+      "date_ex_dividende": "2026-05-22",
+      "date_paiement": "2026-05-25"
+    },
+    {
+      "societe": "BOA CI",
+      "dividende_fcfa": 594.5,
+      "rendement_pct": 7.0,
+      "date_ex_dividende": "2026-05-05",
+      "date_paiement": "2026-05-06"
+    },
+    {
+      "societe": "BOA BURKINA",
+      "dividende_fcfa": 397.0,
+      "rendement_pct": 7.1,
+      "date_ex_dividende": "2026-04-22",
+      "date_paiement": "2026-04-23"
+    }
+  ],
+  "actualites": [
+    {
+      "date_publication_raw": "03/04/2026",
+      "titre": "ORANGE CI : Avis de convocation - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/03-04-2026-orange-ci-avis-de-convocation-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "02/04/2026",
+      "titre": "SODE CI : Communiqué - Changement important dans la Direction - Directeur général",
+      "url": "https://www.richbourse.com/common/actualite/details/02-04-2026-sode-ci-communique-changement-important-dans-la-direction-directeur-general"
+    },
+    {
+      "date_publication_raw": "02/04/2026",
+      "titre": "SODE CI : Communiqué - Changement important dans la Direction - Directeur financier",
+      "url": "https://www.richbourse.com/common/actualite/details/02-04-2026-sode-ci-communique-changement-important-dans-la-direction-directeur-financier"
+    },
+    {
+      "date_publication_raw": "01/04/2026",
+      "titre": "Agrément du FCP BRIDGE OBLIGATIONS SOUVERAINES en qualité d'OPCVM sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/01-04-2026-agrement-du-fcp-bridge-obligations-souveraines-en-qualite-dopcvm-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "01/04/2026",
+      "titre": "BOA NG : Rapport des Commissaires Aux Comptes sur les Etats Financiers annuels - Exercice 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/01-04-2026-boa-ng-rapport-des-commissaires-aux-comptes-sur-les-etats-financiers-annuels-exercice-2025"
+    },
+    {
+      "date_publication_raw": "01/04/2026",
+      "titre": "BOA NG : Rapport des Commissaires Aux Comptes sur les Conventions règlementées et les crédits accordés aux dirigeants de la banque - Exercice 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/01-04-2026-boa-ng-rapport-des-commissaires-aux-comptes-sur-les-conventions-reglementees-et-les-credits-accordes-aux-dirigeants-de-la-banque-exercice-2025"
+    },
+    {
+      "date_publication_raw": "01/04/2026",
+      "titre": "Agrément du FCPR BRIDGE ENVIRONNEMENT ET GENRE en qualité de Fonds d'Investissement Alternatif sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/01-04-2026-agrement-du-fcpr-bridge-environnement-et-genre-en-qualite-de-fonds-dinvestissement-alternatif-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "01/04/2026",
+      "titre": "Composition de l'indice BRVM 30",
+      "url": "https://www.richbourse.com/common/actualite/details/01-04-2026-composition-de-lindice-brvm-30"
+    },
+    {
+      "date_publication_raw": "31/03/2026",
+      "titre": "Rappel Lundi 06 avril 2026 jour férié",
+      "url": "https://www.richbourse.com/common/actualite/details/31-03-2026-rappel-lundi-06-avril-2026-jour-ferie"
+    },
+    {
+      "date_publication_raw": "31/03/2026",
+      "titre": "TOTALENERGIES MARKETING CI : Etats financiers SYSCOHADA - Exercice 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/31-03-2026-totalenergies-marketing-ci-etats-financiers-syscohada-exercice-2025"
+    },
+    {
+      "date_publication_raw": "31/03/2026",
+      "titre": "Horaires de cotation du vendredi 03 avril 2026",
+      "url": "https://www.richbourse.com/common/actualite/details/31-03-2026-horaires-de-cotation-du-vendredi-03-avril-2026"
+    },
+    {
+      "date_publication_raw": "31/03/2026",
+      "titre": "BOA CI : Projet de résolutions - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/31-03-2026-boa-ci-projet-de-resolutions-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "31/03/2026",
+      "titre": "CORIS BANK INTERNATIONAL BF : Avis de convocation - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/31-03-2026-coris-bank-international-bf-avis-de-convocation-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "31/03/2026",
+      "titre": "BOA BURKINA FASO : Paiement de dividendes - Exercice 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/31-03-2026-boa-burkina-faso-paiement-de-dividendes-exercice-2025"
+    },
+    {
+      "date_publication_raw": "27/03/2026",
+      "titre": "BOA CI : Avis de convocation - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/27-03-2026-boa-ci-avis-de-convocation-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "27/03/2026",
+      "titre": "SONATEL SN : Avis de convocation - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/27-03-2026-sonatel-sn-avis-de-convocation-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "25/03/2026",
+      "titre": "SAPH CI : Avis de convocation - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/25-03-2026-saph-ci-avis-de-convocation-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "25/03/2026",
+      "titre": "PALM CI : Avis de convocation - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/25-03-2026-palm-ci-avis-de-convocation-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "24/03/2026",
+      "titre": "BOA ML : Projet de résolutions - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/24-03-2026-boa-ml-projet-de-resolutions-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "24/03/2026",
+      "titre": "BOA ML : Avis de convocation - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/24-03-2026-boa-ml-avis-de-convocation-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "24/03/2026",
+      "titre": "BOA ML : Avis de convocation - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/24-03-2026-boa-ml-avis-de-convocation-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "24/03/2026",
+      "titre": "BOA ML : Etats financiers - Exercice 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/24-03-2026-boa-ml-etats-financiers-exercice-2025"
+    },
+    {
+      "date_publication_raw": "23/03/2026",
+      "titre": "BOA BF : Rapport d'activité -Deuxième semestre 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/23-03-2026-boa-bf-rapport-dactivite-deuxieme-semestre-2025"
+    },
+    {
+      "date_publication_raw": "23/03/2026",
+      "titre": "BOA BF : Etats financiers - Exercice 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/23-03-2026-boa-bf-etats-financiers-exercice-2025"
+    },
+    {
+      "date_publication_raw": "23/03/2026",
+      "titre": "PALM CI : Etats financiers - Exercice 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/23-03-2026-palm-ci-etats-financiers-exercice-2025"
+    },
+    {
+      "date_publication_raw": "19/03/2026",
+      "titre": "Rappel, 20 mars 2026, jour férié, Aid El Fitr",
+      "url": "https://www.richbourse.com/common/actualite/details/19-03-2026-rappel-20-mars-2026-jour-ferie-aid-el-fitr"
+    },
+    {
+      "date_publication_raw": "18/03/2026",
+      "titre": "Rappel, 19 mars 2026, jour férié, Aid El Fitr",
+      "url": "https://www.richbourse.com/common/actualite/details/18-03-2026-rappel-19-mars-2026-jour-ferie-aid-el-fitr"
+    },
+    {
+      "date_publication_raw": "18/03/2026",
+      "titre": "SAPH CI : Etats financiers SYSCOHADA - Exercice 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/18-03-2026-saph-ci-etats-financiers-syscohada-exercice-2025"
+    },
+    {
+      "date_publication_raw": "18/03/2026",
+      "titre": "BOA NG : Avis de convocation - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/18-03-2026-boa-ng-avis-de-convocation-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "18/03/2026",
+      "titre": "BOA NG : Rapport du Conseil d'Administration à l'Assemblée Générale Ordinaire des Actionnaires - Exercice 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/18-03-2026-boa-ng-rapport-du-conseil-dadministration-a-lassemblee-generale-ordinaire-des-actionnaires-exercice-2025"
+    },
+    {
+      "date_publication_raw": "18/03/2026",
+      "titre": "BOA NG : Pouvoir - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/18-03-2026-boa-ng-pouvoir-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "17/03/2026",
+      "titre": "BOA SN : Etats financiers - Exercice 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/17-03-2026-boa-sn-etats-financiers-exercice-2025"
+    },
+    {
+      "date_publication_raw": "17/03/2026",
+      "titre": "BOA SN : Avis de convocation - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/17-03-2026-boa-sn-avis-de-convocation-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "17/03/2026",
+      "titre": "BOA SN : Pouvoir - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/17-03-2026-boa-sn-pouvoir-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "17/03/2026",
+      "titre": "BOA SN : Projet de résolutions - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/17-03-2026-boa-sn-projet-de-resolutions-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "13/03/2026",
+      "titre": "Agrément du FCP MAC AFRICAN EPARGNE PLUS en qualité d'OPCVM sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/13-03-2026-agrement-du-fcp-mac-african-epargne-plus-en-qualite-dopcvm-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "13/03/2026",
+      "titre": "Agrément du FCP BOA RENDEMENT PLUS en qualité d'OPCVM sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/13-03-2026-agrement-du-fcp-boa-rendement-plus-en-qualite-dopcvm-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "13/03/2026",
+      "titre": "BOA NIGER : Communiqué - Profit Warning",
+      "url": "https://www.richbourse.com/common/actualite/details/13-03-2026-boa-niger-communique-profit-warning"
+    },
+    {
+      "date_publication_raw": "13/03/2026",
+      "titre": "Rappel, 16 mars 2026, jour férié, Lendemain de la nuit du Destin",
+      "url": "https://www.richbourse.com/common/actualite/details/13-03-2026-rappel-16-mars-2026-jour-ferie-lendemain-de-la-nuit-du-destin"
+    },
+    {
+      "date_publication_raw": "13/03/2026",
+      "titre": "Agrément du FCP BOA OBLIGATIONS PLUS en qualité d'OPCVM sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/13-03-2026-agrement-du-fcp-boa-obligations-plus-en-qualite-dopcvm-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "13/03/2026",
+      "titre": "Agrément du FCP BOA RENDEMENT PLUS en qualité d'OPCVM sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/13-03-2026-agrement-du-fcp-boa-rendement-plus-en-qualite-dopcvm-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "13/03/2026",
+      "titre": "Agrément du FCP MAC AFRICAN EPARGNE PLUS en qualité d'OPCVM sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/13-03-2026-agrement-du-fcp-mac-african-epargne-plus-en-qualite-dopcvm-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "13/03/2026",
+      "titre": "Retrait de l'Agrément accordé à Madame DIOMANDE MAKRABI EPSE BAKAYOKO en qualité d'Apporteur d'Affaires, Personne Physique sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/13-03-2026-retrait-de-lagrement-accorde-a-madame-diomande-makrabi-epse-bakayoko-en-qualite-dapporteur-daffaires-personne-physique-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "13/03/2026",
+      "titre": "Retrait de l'Agrément accordé à la société ZAIN FINANCES en qualité d'Apporteur d'Affaires, Personne Morale sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/13-03-2026-retrait-de-lagrement-accorde-a-la-societe-zain-finances-en-qualite-dapporteur-daffaires-personne-morale-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "13/03/2026",
+      "titre": "Agrément de la société ONE AFRICA MARKETS CÔTE D'IVOIRE en qualité de SGI sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/13-03-2026-agrement-de-la-societe-one-africa-markets-cote-divoire-en-qualite-de-sgi-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "13/03/2026",
+      "titre": "Renouvellement de l'Agrément du CABINET FORVIS MAZARS CÔTE D'IVOIRE en qualité de Listing Sponsor sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/13-03-2026-renouvellement-de-lagrement-du-cabinet-forvis-mazars-cote-divoire-en-qualite-de-listing-sponsor-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "13/03/2026",
+      "titre": "Non-Renouvellement de l'Agrément du CABINET FORVIS MAZARS SENEGAL en qualité de Listing Sponsor sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/13-03-2026-non-renouvellement-de-lagrement-du-cabinet-forvis-mazars-senegal-en-qualite-de-listing-sponsor-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "13/03/2026",
+      "titre": "Renouvellement de l'Agrément de la SGI HUDSON & Cie en qualité de Listing Sponsor sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/13-03-2026-renouvellement-de-lagrement-de-la-sgi-hudson-cie-en-qualite-de-listing-sponsor-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "13/03/2026",
+      "titre": "Agrément de la société DMB FINANCES en qualité d'Apporteur d'Affaires, Personne Morale sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/13-03-2026-agrement-de-la-societe-dmb-finances-en-qualite-dapporteur-daffaires-personne-morale-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "11/03/2026",
+      "titre": "SICABLE CI : Etats financiers IFRS - Exercice 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/11-03-2026-sicable-ci-etats-financiers-ifrs-exercice-2025"
+    },
+    {
+      "date_publication_raw": "11/03/2026",
+      "titre": "UNILEVER CI : Avis de convocation - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/11-03-2026-unilever-ci-avis-de-convocation-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "11/03/2026",
+      "titre": "SICABLE CI : Pouvoir - Assemblée Générale Ordinaire - (Annule et remplace le précédent)",
+      "url": "https://www.richbourse.com/common/actualite/details/11-03-2026-sicable-ci-pouvoir-assemblee-generale-ordinaire-annule-et-remplace-le-precedent"
+    },
+    {
+      "date_publication_raw": "11/03/2026",
+      "titre": "SICABLE CI : Projet de résolutions - Assemblée Générale Ordinaire - (Annule et remplace le précédent)",
+      "url": "https://www.richbourse.com/common/actualite/details/11-03-2026-sicable-ci-projet-de-resolutions-assemblee-generale-ordinaire-annule-et-remplace-le-precedent"
+    },
+    {
+      "date_publication_raw": "10/03/2026",
+      "titre": "SICABLE CI : Ordre du jour - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/10-03-2026-sicable-ci-ordre-du-jour-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "10/03/2026",
+      "titre": "SICABLE CI : Etats financiers SYSCOHADA - Exercice 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/10-03-2026-sicable-ci-etats-financiers-syscohada-exercice-2025"
+    },
+    {
+      "date_publication_raw": "10/03/2026",
+      "titre": "SICABLE : Avis de convocation - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/10-03-2026-sicable-avis-de-convocation-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "10/03/2026",
+      "titre": "SICABLE CI : Pouvoir - Assemblée Générale Mixte",
+      "url": "https://www.richbourse.com/common/actualite/details/10-03-2026-sicable-ci-pouvoir-assemblee-generale-mixte"
+    },
+    {
+      "date_publication_raw": "10/03/2026",
+      "titre": "SICABLE CI : Projet de résolutions - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/10-03-2026-sicable-ci-projet-de-resolutions-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "06/03/2026",
+      "titre": "BOA BF : Avis de convocation - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/06-03-2026-boa-bf-avis-de-convocation-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "06/03/2026",
+      "titre": "BOA BF : Projet de résolutions - Assemblée Générale Ordinaire",
+      "url": "https://www.richbourse.com/common/actualite/details/06-03-2026-boa-bf-projet-de-resolutions-assemblee-generale-ordinaire"
+    },
+    {
+      "date_publication_raw": "03/03/2026",
+      "titre": "SAFCA CI : Notation Financière",
+      "url": "https://www.richbourse.com/common/actualite/details/03-03-2026-safca-ci-notation-financiere"
+    },
+    {
+      "date_publication_raw": "03/03/2026",
+      "titre": "NEI CEDA : Notation Financière",
+      "url": "https://www.richbourse.com/common/actualite/details/03-03-2026-nei-ceda-notation-financiere"
+    },
+    {
+      "date_publication_raw": "20/02/2026",
+      "titre": "NEI-CEDA CI : Communiqué - Changement important dans la Direction",
+      "url": "https://www.richbourse.com/common/actualite/details/20-02-2026-nei-ceda-ci-communique-changement-important-dans-la-direction"
+    },
+    {
+      "date_publication_raw": "17/02/2026",
+      "titre": "Communiqué AMF-UMOA - Liste des cartes professionnelles délivrées en janvier 2026",
+      "url": "https://www.richbourse.com/common/actualite/details/17-02-2026-communique-amf-umoa-liste-des-cartes-professionnelles-delivrees-en-janvier-2026"
+    },
+    {
+      "date_publication_raw": "17/02/2026",
+      "titre": "ORANGE CI : Etats financiers - Exercice 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/17-02-2026-orange-ci-etats-financiers-exercice-2025"
+    },
+    {
+      "date_publication_raw": "16/02/2026",
+      "titre": "SONATEL SN : attestation des Commissaires Aux Comptes - états financiers 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/16-02-2026-sonatel-sn-attestation-des-commissaires-aux-comptes-etats-financiers-2025"
+    },
+    {
+      "date_publication_raw": "16/02/2026",
+      "titre": "SONATEL SN : Etats financiers 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/16-02-2026-sonatel-sn-etats-financiers-2025"
+    },
+    {
+      "date_publication_raw": "16/02/2026",
+      "titre": "SONATEL SN : Communiqué de presse",
+      "url": "https://www.richbourse.com/common/actualite/details/16-02-2026-sonatel-sn-communique-de-presse"
+    },
+    {
+      "date_publication_raw": "11/02/2026",
+      "titre": "UNIWAX CI : Communiqué - Cession de participation",
+      "url": "https://www.richbourse.com/common/actualite/details/11-02-2026-uniwax-ci-communique-cession-de-participation"
+    },
+    {
+      "date_publication_raw": "02/02/2026",
+      "titre": "ORANGE CI : Notation Financière",
+      "url": "https://www.richbourse.com/common/actualite/details/02-02-2026-orange-ci-notation-financiere"
+    },
+    {
+      "date_publication_raw": "30/01/2026",
+      "titre": "SITAB CI : Rapport d'activités - 4ème trimestre 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/30-01-2026-sitab-ci-rapport-dactivites-4eme-trimestre-2025"
+    },
+    {
+      "date_publication_raw": "30/01/2026",
+      "titre": "ERIUM CI : Attestation des Commissaires Aux Comptes sur le Rapport d'activités - 1er semestre 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/30-01-2026-erium-ci-attestation-des-commissaires-aux-comptes-sur-le-rapport-dactivites-1er-semestre-2025"
+    },
+    {
+      "date_publication_raw": "28/01/2026",
+      "titre": "SAPH CI : Communiqué",
+      "url": "https://www.richbourse.com/common/actualite/details/28-01-2026-saph-ci-communique"
+    },
+    {
+      "date_publication_raw": "27/01/2026",
+      "titre": "BIIC BN : Bilan semestriel du contrat de liquidité - 2ème semestre 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/27-01-2026-biic-bn-bilan-semestriel-du-contrat-de-liquidite-2eme-semestre-2025"
+    },
+    {
+      "date_publication_raw": "27/01/2026",
+      "titre": "LNB BN : Bilan semestriel du contrat de liquidité - 2ème semestre 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/27-01-2026-lnb-bn-bilan-semestriel-du-contrat-de-liquidite-2eme-semestre-2025"
+    },
+    {
+      "date_publication_raw": "27/01/2026",
+      "titre": "SODE CI : Notation Financière",
+      "url": "https://www.richbourse.com/common/actualite/details/27-01-2026-sode-ci-notation-financiere"
+    },
+    {
+      "date_publication_raw": "19/01/2026",
+      "titre": "Enregistrement du FCPR ENKO PME en qualité de Fonds d'Investissement Alternatif sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/19-01-2026-enregistrement-du-fcpr-enko-pme-en-qualite-de-fonds-dinvestissement-alternatif-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "19/01/2026",
+      "titre": "Agrément du FCP ATLANTIQUE PATRIMOINE en qualité d'OPCVM sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/19-01-2026-agrement-du-fcp-atlantique-patrimoine-en-qualite-dopcvm-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "19/01/2026",
+      "titre": "Agrément du FCP ATLANTIQUE ASSURANCES UMOA en qualité d'OPCVM sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/19-01-2026-agrement-du-fcp-atlantique-assurances-umoa-en-qualite-dopcvm-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "19/01/2026",
+      "titre": "Agrément de la SOCIETE GLOBAL MARKET CONTACT en qualité d'Apporteur d'Affaires, Personne Morale sur le Marché Financier Régional de l'UMOA (Annule et remplace le précédent)",
+      "url": "https://www.richbourse.com/common/actualite/details/19-01-2026-agrement-de-la-societe-global-market-contact-en-qualite-dapporteur-daffaires-personne-morale-sur-le-marche-financier-regional-de-lumoa-annule-et-remplace-le-precedent"
+    },
+    {
+      "date_publication_raw": "19/01/2026",
+      "titre": "Agrément du FCP ATLANTIQUE CONFORT en qualité d'OPCVM sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/19-01-2026-agrement-du-fcp-atlantique-confort-en-qualite-dopcvm-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "19/01/2026",
+      "titre": "Agrément du FCP ATLANTIQUE PATRIMOINE en qualité d'OPCVM sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/19-01-2026-agrement-du-fcp-atlantique-patrimoine-en-qualite-dopcvm-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "19/01/2026",
+      "titre": "Agrément du FCP ATLANTIQUE ASSURANCES UMOA en qualité d'OPCVM sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/19-01-2026-agrement-du-fcp-atlantique-assurances-umoa-en-qualite-dopcvm-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "19/01/2026",
+      "titre": "Enregistrement du FCPR ENKO PME en qualité de Fonds d'Investissement Alternatif sur le Marché Financier Régional de l'UMOA",
+      "url": "https://www.richbourse.com/common/actualite/details/19-01-2026-enregistrement-du-fcpr-enko-pme-en-qualite-de-fonds-dinvestissement-alternatif-sur-le-marche-financier-regional-de-lumoa"
+    },
+    {
+      "date_publication_raw": "19/01/2026",
+      "titre": "Agrément de la SOCIETE GLOBAL MARKET CONTACT en qualité d'Apporteur d'Affaires, Personne Morale sur le Marché Financier Régional de l'UMOA (Annule et remplace le précédent)",
+      "url": "https://www.richbourse.com/common/actualite/details/19-01-2026-agrement-de-la-societe-global-market-contact-en-qualite-dapporteur-daffaires-personne-morale-sur-le-marche-financier-regional-de-lumoa-annule-et-remplace-le-precedent"
+    },
+    {
+      "date_publication_raw": "16/01/2026",
+      "titre": "SIB : Transaction Sur Dossier",
+      "url": "https://www.richbourse.com/common/actualite/details/16-01-2026-sib-transaction-sur-dossier"
+    },
+    {
+      "date_publication_raw": "15/01/2026",
+      "titre": "SOCIETE GENERALE CI : Bilan semestriel du contrat de liquidité - 2ème semestre 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/15-01-2026-societe-generale-ci-bilan-semestriel-du-contrat-de-liquidite-2eme-semestre-2025"
+    },
+    {
+      "date_publication_raw": "15/01/2026",
+      "titre": "PALM CI : Bilan semestriel du contrat de liquidité - 2ème semestre 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/15-01-2026-palm-ci-bilan-semestriel-du-contrat-de-liquidite-2eme-semestre-2025"
+    },
+    {
+      "date_publication_raw": "15/01/2026",
+      "titre": "AFRICA GLOBAL LOGISTICS CI : Bilan semestriel du contrat de liquidité - 2ème semestre 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/15-01-2026-africa-global-logistics-ci-bilan-semestriel-du-contrat-de-liquidite-2eme-semestre-2025"
+    },
+    {
+      "date_publication_raw": "13/01/2026",
+      "titre": "Homologation des tarifs de la SGI IMPAXIS SECURITIES",
+      "url": "https://www.richbourse.com/common/actualite/details/13-01-2026-homologation-des-tarifs-de-la-sgi-impaxis-securities"
+    },
+    {
+      "date_publication_raw": "13/01/2026",
+      "titre": "Liste des cartes professionnelles renouvelées au titre de l'année 2026",
+      "url": "https://www.richbourse.com/common/actualite/details/13-01-2026-liste-des-cartes-professionnelles-renouvelees-au-titre-de-lannee-2026"
+    },
+    {
+      "date_publication_raw": "12/01/2026",
+      "titre": "ORAGROUP TG : Bilan semestriel du contrat de liquidité - 2ème semestre 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/12-01-2026-oragroup-tg-bilan-semestriel-du-contrat-de-liquidite-2eme-semestre-2025"
+    },
+    {
+      "date_publication_raw": "08/01/2026",
+      "titre": "SIB CI : Notation Financière",
+      "url": "https://www.richbourse.com/common/actualite/details/08-01-2026-sib-ci-notation-financiere"
+    },
+    {
+      "date_publication_raw": "08/01/2026",
+      "titre": "CIE CI : Notation Financière",
+      "url": "https://www.richbourse.com/common/actualite/details/08-01-2026-cie-ci-notation-financiere"
+    },
+    {
+      "date_publication_raw": "07/01/2026",
+      "titre": "SITAB CI : Bilan semestriel du contrat de liquidité - 2ème semestre 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/07-01-2026-sitab-ci-bilan-semestriel-du-contrat-de-liquidite-2eme-semestre-2025"
+    },
+    {
+      "date_publication_raw": "07/01/2026",
+      "titre": "ORANGE CI : Bilan semestriel du contrat de liquidité - 2ème semestre 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/07-01-2026-orange-ci-bilan-semestriel-du-contrat-de-liquidite-2eme-semestre-2025"
+    },
+    {
+      "date_publication_raw": "06/01/2026",
+      "titre": "UNIWAX CI : Bilan semestriel du contrat de liquidité - 2ème semestre 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/06-01-2026-uniwax-ci-bilan-semestriel-du-contrat-de-liquidite-2eme-semestre-2025"
+    },
+    {
+      "date_publication_raw": "06/01/2026",
+      "titre": "SERVAIR ABIDJAN CI : Bilan semestriel du contrat de liquidité - 2ème semestre 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/06-01-2026-servair-abidjan-ci-bilan-semestriel-du-contrat-de-liquidite-2eme-semestre-2025"
+    },
+    {
+      "date_publication_raw": "06/01/2026",
+      "titre": "SIB CI : Bilan semestriel du contrat de liquidité - 2ème semestre 2025",
+      "url": "https://www.richbourse.com/common/actualite/details/06-01-2026-sib-ci-bilan-semestriel-du-contrat-de-liquidite-2eme-semestre-2025"
+    },
+    {
+      "date_publication_raw": "02/01/2026",
+      "titre": "Composition de l'indice BRVM Prestige",
+      "url": "https://www.richbourse.com/common/actualite/details/02-01-2026-composition-de-lindice-brvm-prestige"
+    }
+  ],
+  "notations": [
+    {
+      "ticker": "SCRC",
+      "agence": "GCR Ratings",
+      "date_notation": "Octobre 2025",
+      "note_court_terme": "B perspective Stable",
+      "note_long_terme": "BB+ perspective Stable"
+    },
+    {
+      "ticker": "SCRC",
+      "agence": "GCR Ratings",
+      "date_notation": "Septembre 2024",
+      "note_court_terme": "B perspective Stable",
+      "note_long_terme": "BB perspective Stable"
+    },
+    {
+      "ticker": "SCRC",
+      "agence": "GCR Ratings",
+      "date_notation": "Septembre 2023",
+      "note_court_terme": "B perspective Stable",
+      "note_long_terme": "BB perspective Négative"
+    },
+    {
+      "ticker": "UNLC",
+      "agence": "BloomField Investment",
+      "date_notation": "Octobre 2024",
+      "note_court_terme": "A1- perspective Stable",
+      "note_long_terme": "A perspective Stable"
+    },
+    {
+      "ticker": "UNLC",
+      "agence": "BloomField Investment",
+      "date_notation": "Octobre 2023",
+      "note_court_terme": "A1- perspective Stable",
+      "note_long_terme": "A perspective Négative"
+    },
+    {
+      "ticker": "UNLC",
+      "agence": "BloomField Investment",
+      "date_notation": "Août 2022",
+      "note_court_terme": "A1- perspective Stable",
+      "note_long_terme": "A perspective Stable"
+    },
+    {
+      "ticker": "SEMC",
+      "agence": "BloomField Investment",
+      "date_notation": "Juillet 2024",
+      "note_court_terme": "A2 perspective Stable",
+      "note_long_terme": "A- perspective Stable"
+    },
+    {
+      "ticker": "SEMC",
+      "agence": "BloomField Investment",
+      "date_notation": "Juillet 2023",
+      "note_court_terme": "A2 perspective Stable",
+      "note_long_terme": "A- perspective Stable"
+    },
+    {
+      "ticker": "SEMC",
+      "agence": "BloomField Investment",
+      "date_notation": "Juillet 2022",
+      "note_court_terme": "A3 perspective Positive",
+      "note_long_terme": "A- perspective Stable"
+    },
+    {
+      "ticker": "FTSC",
+      "agence": "GCR Ratings",
+      "date_notation": "Septembre 2021",
+      "note_court_terme": "w-3 perspective Stable",
+      "note_long_terme": "A perspective Stable"
+    },
+    {
+      "ticker": "FTSC",
+      "agence": "GCR Ratings",
+      "date_notation": "Octobre 2020",
+      "note_court_terme": "w-3 perspective Stable",
+      "note_long_terme": "A perspective Stable"
+    },
+    {
+      "ticker": "FTSC",
+      "agence": "GCR Ratings",
+      "date_notation": "Octobre 2019",
+      "note_court_terme": "w-3 perspective Stable",
+      "note_long_terme": "A perspective Stable"
+    },
+    {
+      "ticker": "BOAM",
+      "agence": "BloomField Investment",
+      "date_notation": "Juin 2025",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A- perspective Stable"
+    },
+    {
+      "ticker": "BOAM",
+      "agence": "BloomField Investment",
+      "date_notation": "Juin 2024",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A- perspective Stable"
+    },
+    {
+      "ticker": "BOAM",
+      "agence": "BloomField Investment",
+      "date_notation": "Juin 2023",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A- perspective Stable"
+    },
+    {
+      "ticker": "CABC",
+      "agence": "GCR Ratings",
+      "date_notation": "Novembre 2025",
+      "note_court_terme": "A1+ perspective Stable",
+      "note_long_terme": "AA- perspective Stable"
+    },
+    {
+      "ticker": "CABC",
+      "agence": "GCR Ratings",
+      "date_notation": "Novembre 2023",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A perspective Positive"
+    },
+    {
+      "ticker": "CABC",
+      "agence": "GCR Ratings",
+      "date_notation": "Novembre 2022",
+      "note_court_terme": "A2 perspective Stable",
+      "note_long_terme": "A- perspective Stable"
+    },
+    {
+      "ticker": "BOAB",
+      "agence": "BloomField Investment",
+      "date_notation": "Juin 2025",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "BOAB",
+      "agence": "BloomField Investment",
+      "date_notation": "Juin 2024",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "BOAB",
+      "agence": "BloomField Investment",
+      "date_notation": "Juin 2023",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "ONTBF",
+      "agence": "GCR Ratings",
+      "date_notation": "Décembre 2025",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "ONTBF",
+      "agence": "GCR Ratings",
+      "date_notation": "Octobre 2024",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "ONTBF",
+      "agence": "GCR Ratings",
+      "date_notation": "Octobre 2023",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A perspective Stable"
+    },
+    {
+      "ticker": "TTLS",
+      "agence": "GCR Ratings",
+      "date_notation": "Septembre 2025",
+      "note_court_terme": "A1+ perspective Stable",
+      "note_long_terme": "AA- perspective Stable"
+    },
+    {
+      "ticker": "TTLS",
+      "agence": "GCR Ratings",
+      "date_notation": "Décembre 2023",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A perspective Stable"
+    },
+    {
+      "ticker": "TTLS",
+      "agence": "GCR Ratings",
+      "date_notation": "Décembre 2022",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A perspective Stable"
+    },
+    {
+      "ticker": "CFAC",
+      "agence": "GCR Ratings",
+      "date_notation": "Juillet 2023",
+      "note_court_terme": "A1+ perspective Stable",
+      "note_long_terme": "AA- perspective Stable"
+    },
+    {
+      "ticker": "CFAC",
+      "agence": "GCR Ratings",
+      "date_notation": "Septembre 2022",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "CFAC",
+      "agence": "GCR Ratings",
+      "date_notation": "Juillet 2021",
+      "note_court_terme": "w-3 perspective Stable",
+      "note_long_terme": "A perspective Stable"
+    },
+    {
+      "ticker": "CBIBF",
+      "agence": "BloomField Investment",
+      "date_notation": "Juin 2025",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "AA perspective Stable"
+    },
+    {
+      "ticker": "CBIBF",
+      "agence": "BloomField Investment",
+      "date_notation": "Juin 2024",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "AA perspective Stable"
+    },
+    {
+      "ticker": "CBIBF",
+      "agence": "BloomField Investment",
+      "date_notation": "Juin 2023",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "AA perspective Stable"
+    },
+    {
+      "ticker": "NEIC",
+      "agence": "BloomField Investment",
+      "date_notation": "Décembre 2025",
+      "note_court_terme": "A1- perspective Stable",
+      "note_long_terme": "A- perspective Stable"
+    },
+    {
+      "ticker": "NEIC",
+      "agence": "BloomField Investment",
+      "date_notation": "Décembre 2024",
+      "note_court_terme": "A1- perspective Stable",
+      "note_long_terme": "A- perspective Stable"
+    },
+    {
+      "ticker": "NEIC",
+      "agence": "BloomField Investment",
+      "date_notation": "Décembre 2023",
+      "note_court_terme": "A1- perspective Stable",
+      "note_long_terme": "A- perspective Stable"
+    },
+    {
+      "ticker": "SNTS",
+      "agence": "GCR Ratings",
+      "date_notation": "Juin 2025",
+      "note_court_terme": "A1+ perspective Stable",
+      "note_long_terme": "AA+ perspective Stable"
+    },
+    {
+      "ticker": "SNTS",
+      "agence": "GCR Ratings",
+      "date_notation": "Juin 2024",
+      "note_court_terme": "A1+ perspective Stable",
+      "note_long_terme": "AAA perspective Stable"
+    },
+    {
+      "ticker": "SNTS",
+      "agence": "GCR Ratings",
+      "date_notation": "Août 2023",
+      "note_court_terme": "A1+ perspective Stable",
+      "note_long_terme": "AAA perspective Stable"
+    },
+    {
+      "ticker": "SIVC",
+      "agence": "BloomField Investment",
+      "date_notation": "Novembre 2024",
+      "note_court_terme": "A3 perspective Stable",
+      "note_long_terme": "BBB perspective Stable"
+    },
+    {
+      "ticker": "SIVC",
+      "agence": "BloomField Investment",
+      "date_notation": "Novembre 2023",
+      "note_court_terme": "A3 perspective Stable",
+      "note_long_terme": "BBB perspective Stable"
+    },
+    {
+      "ticker": "SIVC",
+      "agence": "BloomField Investment",
+      "date_notation": "Novembre 2022",
+      "note_court_terme": "A3 perspective Stable",
+      "note_long_terme": "BBB perspective Positive"
+    },
+    {
+      "ticker": "SDSC",
+      "agence": "BloomField Investment",
+      "date_notation": "Décembre 2024",
+      "note_court_terme": "A1- perspective Stable",
+      "note_long_terme": "A perspective Stable"
+    },
+    {
+      "ticker": "SDSC",
+      "agence": "GCR Ratings",
+      "date_notation": "Janvier 2023",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A+ perspective Positive"
+    },
+    {
+      "ticker": "SDSC",
+      "agence": "GCR Ratings",
+      "date_notation": "Décembre 2022",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "NSBC",
+      "agence": "BloomField Investment",
+      "date_notation": "Septembre 2025",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "AA- perspective Stable"
+    },
+    {
+      "ticker": "NSBC",
+      "agence": "BloomField Investment",
+      "date_notation": "Septembre 2024",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "AA- perspective Stable"
+    },
+    {
+      "ticker": "NSBC",
+      "agence": "BloomField Investment",
+      "date_notation": "Septembre 2023",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "AA- perspective Stable"
+    },
+    {
+      "ticker": "SIBC",
+      "agence": "BloomField Investment",
+      "date_notation": "Octobre 2025",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "AA- perspective Positive"
+    },
+    {
+      "ticker": "SIBC",
+      "agence": "BloomField Investment",
+      "date_notation": "Mai 2024",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "AA- perspective Stable"
+    },
+    {
+      "ticker": "SIBC",
+      "agence": "BloomField Investment",
+      "date_notation": "Mai 2023",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "AA- perspective Stable"
+    },
+    {
+      "ticker": "BOAC",
+      "agence": "BloomField Investment",
+      "date_notation": "Mai 2025",
+      "note_court_terme": "A1- perspective Positive",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "BOAC",
+      "agence": "BloomField Investment",
+      "date_notation": "Mai 2024",
+      "note_court_terme": "A1- perspective Stable",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "BOAC",
+      "agence": "BloomField Investment",
+      "date_notation": "Mai 2022",
+      "note_court_terme": "A1- perspective Stable",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "BOABF",
+      "agence": "BloomField Investment",
+      "date_notation": "Juin 2025",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "BOABF",
+      "agence": "BloomField Investment",
+      "date_notation": "Juin 2024",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "BOABF",
+      "agence": "BloomField Investment",
+      "date_notation": "Juillet 2023",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A perspective Stable"
+    },
+    {
+      "ticker": "SPHC",
+      "agence": "GCR Ratings",
+      "date_notation": "Octobre 2025",
+      "note_court_terme": "A2 perspective Stable",
+      "note_long_terme": "BBB+ perspective Stable"
+    },
+    {
+      "ticker": "SPHC",
+      "agence": "GCR Ratings",
+      "date_notation": "Septembre 2024",
+      "note_court_terme": "A2 perspective Stable",
+      "note_long_terme": "BBB+ perspective Stable"
+    },
+    {
+      "ticker": "SPHC",
+      "agence": "GCR Ratings",
+      "date_notation": "Septembre 2023",
+      "note_court_terme": "A2 perspective Stable",
+      "note_long_terme": "BBB+ perspective Positive"
+    },
+    {
+      "ticker": "BOAS",
+      "agence": "BloomField Investment",
+      "date_notation": "Juillet 2025",
+      "note_court_terme": "A1- perspective Stable",
+      "note_long_terme": "A perspective Stable"
+    },
+    {
+      "ticker": "BOAS",
+      "agence": "BloomField Investment",
+      "date_notation": "Juillet 2024",
+      "note_court_terme": "A1- perspective Stable",
+      "note_long_terme": "A perspective Stable"
+    },
+    {
+      "ticker": "BOAS",
+      "agence": "BloomField Investment",
+      "date_notation": "Mai 2023",
+      "note_court_terme": "A1- perspective Stable",
+      "note_long_terme": "A perspective Stable"
+    },
+    {
+      "ticker": "SAFC",
+      "agence": "BloomField Investment",
+      "date_notation": "Septembre 2025",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "BBB+ perspective Stable"
+    },
+    {
+      "ticker": "SAFC",
+      "agence": "BloomField Investment",
+      "date_notation": "Septembre 2024",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "BBB+ perspective Stable"
+    },
+    {
+      "ticker": "SAFC",
+      "agence": "BloomField Investment",
+      "date_notation": "Septembre 2023",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "BBB+ perspective Stable"
+    },
+    {
+      "ticker": "SGBC",
+      "agence": "BloomField Investment",
+      "date_notation": "Juillet 2025",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "AAA perspective Stable"
+    },
+    {
+      "ticker": "SGBC",
+      "agence": "BloomField Investment",
+      "date_notation": "Juillet 2024",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "AA+ perspective Stable"
+    },
+    {
+      "ticker": "SGBC",
+      "agence": "GCR Ratings",
+      "date_notation": "Août 2023",
+      "note_court_terme": "A1+ perspective Stable",
+      "note_long_terme": "AA+ perspective Stable"
+    },
+    {
+      "ticker": "NTLC",
+      "agence": "BloomField Investment",
+      "date_notation": "Novembre 2024",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "NTLC",
+      "agence": "BloomField Investment",
+      "date_notation": "Novembre 2023",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A perspective Stable"
+    },
+    {
+      "ticker": "NTLC",
+      "agence": "BloomField Investment",
+      "date_notation": "Novembre 2022",
+      "note_court_terme": "A1 perspective Positive",
+      "note_long_terme": "A perspective Positive"
+    },
+    {
+      "ticker": "ORAC",
+      "agence": "BloomField Investment",
+      "date_notation": "Septembre 2025",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "AAA perspective Stable"
+    },
+    {
+      "ticker": "ORAC",
+      "agence": "BloomField Investment",
+      "date_notation": "Septembre 2024",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "AAA perspective Stable"
+    },
+    {
+      "ticker": "ORAC",
+      "agence": "BloomField Investment",
+      "date_notation": "Septembre 2023",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "AAA perspective Stable"
+    },
+    {
+      "ticker": "ABJC",
+      "agence": "GCR Ratings",
+      "date_notation": "Août 2025",
+      "note_court_terme": "A1+ perspective Stable",
+      "note_long_terme": "AA+ perspective Stable"
+    },
+    {
+      "ticker": "ABJC",
+      "agence": "GCR Ratings",
+      "date_notation": "Juillet 2024",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A perspective Positive"
+    },
+    {
+      "ticker": "ABJC",
+      "agence": "GCR Ratings",
+      "date_notation": "Juillet 2023",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A perspective Stable"
+    },
+    {
+      "ticker": "SMBC",
+      "agence": "BloomField Investment",
+      "date_notation": "Août 2025",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "SMBC",
+      "agence": "BloomField Investment",
+      "date_notation": "Août 2024",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "SMBC",
+      "agence": "BloomField Investment",
+      "date_notation": "Juin 2023",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A perspective Positive"
+    },
+    {
+      "ticker": "BNBC",
+      "agence": "BloomField Investment",
+      "date_notation": "Juillet 2025",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "BNBC",
+      "agence": "BloomField Investment",
+      "date_notation": "Juillet 2024",
+      "note_court_terme": "A1 perspective Négative",
+      "note_long_terme": "A+ perspective Stable"
+    },
+    {
+      "ticker": "BNBC",
+      "agence": "BloomField Investment",
+      "date_notation": "Juillet 2023",
+      "note_court_terme": "A1 perspective Stable",
+      "note_long_terme": "A+ perspective Stable"
+    }
+  ]
+}

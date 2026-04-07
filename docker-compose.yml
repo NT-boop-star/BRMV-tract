@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  db:
+    image: timescale/timescaledb:latest-pg15
+    container_name: brvm_timescaledb
+    environment:
+      POSTGRES_USER: brvm_user
+      POSTGRES_PASSWORD: brvm_password
+      POSTGRES_DB: brvm_tracker
+    ports:
+      - "5433:5432"
+    volumes:
+      - timescaledb_data:/var/lib/postgresql/data
+      - ./database/init.sql:/docker-entrypoint-initdb.d/init.sql
+    restart: unless-stopped
+
+volumes:
+  timescaledb_data:
