@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=DM+Mono:wght@300;400;500&family=Syne:wght@400;500;600;700&display=swap');
+
+:root {
+  /* Fonds - "Bloomberg Africain" Deep Dark Theme */
+  --bg-main: 220 43% 6%;      /* #080C14 Fond principal — nuit profonde */
+  --bg-card: 218 43% 9%;      /* #0D1420 Cartes et panneaux */
+  --bg-card-hover: 218 39% 11%;/* #111827 Hover états */
+  --bg-glass: 218 43% 9% / 0.7;
+
+  /* Bordures */
+  --border-color: 222 34% 15%; /* #1A2235 */
+  --border-glass: 255 255% 255% / 0.05;
+
+  /* Or africain — couleur signature */
+  --gold: 44 55% 54%;             /* #C9A84C Or principal */
+  --gold-light: 43 71% 69%;       /* #E8C97A Or clair — hover, accents */
+  --gold-dim: 42 50% 36%;         /* #8B6F2E Or atténué — secondaire */
+  --gold-glow: 44 55% 54% / 0.15; /* Halo or */
+
+  /* Textile et texte */
+  --text-main: 224 100% 97%;     /* #F0F4FF Texte principal */
+  --text-muted: 220 18% 51%;     /* #6B7A99 Texte secondaire */
+  --text-dim: 216 27% 33%;       /* #3D4F6B Texte tertiaire */
+
+  /* Données financières - couleurs sémantiques strictes */
+  --success: 142 71% 45%;        /* #22C55E Hausse */
+  --success-faded: 142 71% 45% / 0.15;
+  --danger: 348 83% 54%;         /* #EF4444 Baisse */
+  --danger-faded: 348 83% 54% / 0.15;
+  --accent-primary: 44 55% 54%;  /* Map old references to Gold */
+  --accent-faded: 44 55% 54% / 0.15;
+  --accent-secondary: 226 71% 40%;/* Blue */
+
+  /* Polices */
+  --font-data: 'Playfair Display', serif;
+  --font-mono: 'DM Mono', monospace;
+  --font-ui: 'Syne', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scrollbar-width: thin;
+  scrollbar-color: hsl(var(--border-color)) transparent;
+}
+
+body {
+  background-color: hsl(var(--bg-main));
+  color: hsl(var(--text-main));
+  font-family: var(--font-ui), system-ui, sans-serif;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+  background-image: 
+    radial-gradient(circle at 15% 50%, hsl(var(--gold-glow)) 0%, transparent 40%),
+    radial-gradient(circle at 85% 30%, hsl(var(--success-faded)) 0%, transparent 40%);
+  background-attachment: fixed;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: hsl(var(--gold));
+}
+
+.glass-panel {
+  background: hsl(var(--bg-glass));
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid hsl(var(--border-glass));
+  border-top: 1px solid hsl(255 255% 255% / 0.1);
+  border-radius: 12px;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.4);
+}
+
+.card-hover {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 40px -10px hsl(var(--gold-glow));
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+/* Classes Typo spécifiques au cahier des charges */
+.prix-principal {
+  font-family: var(--font-data);
+  font-feature-settings: "tnum";
+  color: hsl(var(--gold));
+}
+
+.donnee-numerique {
+  font-family: var(--font-mono);
+  font-feature-settings: "tnum";
+}
+
+.label-interface {
+  font-family: var(--font-ui);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+}
+
+/* Base Typo */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-data);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, hsl(var(--gold-light)), hsl(var(--gold)));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
